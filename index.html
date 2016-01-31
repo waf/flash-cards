@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Flash Cards</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui">
+        <link rel="stylesheet" href="lib/material.min.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+        <link href='https://fonts.googleapis.com/css?family=Itim&subset=thai' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Kanit:300&subset=thai' rel='stylesheet' type='text/css'>
+        <style>
+            .card {
+                font-size: 48pt;
+                line-height: 48pt;
+                text-align:center;
+                position:absolute;
+                width:100%;
+                top:50%;
+                transform: translateY(-50%);
+            }
+            .modern .card-front {
+                font-family:'Kanit';
+            }
+            .traditional .card-front {
+                font-family:'Itim';
+            }
+            .card-front { display: block; }
+            .card-back { display:none; }
+            .flipped .card-front { display:none; }
+            .flipped .card-back { display:block; }
+            .feedback {
+                position:absolute;
+                width:100%;
+                text-align:center;
+            }
+            .feedback button {
+                margin:2em;
+                transform: scale(2);
+            }
+            .win-message {
+                color: #3f51b5;
+                position:absolute;
+                text-align:center;
+                width:100%;
+                top:50%;
+                transform: translateY(-50%);
+            }
+
+            .mdl-spinner {
+                position:absolute;
+                top:50%;
+                left:50%;
+                transform: translateY(-50%, -50%);
+            }
+
+            /* MDL overrides */
+            .mdl-progress {
+                width:100%;
+            }
+            .mdl-navigation__link {
+                font-size:16px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="app"></div>
+
+        <script src="lib/material.min.js"></script>
+        <script src="/build/bundle.js"></script>
+    </body>
+</html>
