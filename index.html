@@ -4,10 +4,12 @@
         <meta charset="UTF-8">
         <title>Flash Cards</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui">
-        <link rel="stylesheet" href="lib/material.min.css">
+        <link rel="stylesheet" href="lib/material.min.css" type="text/css">
         <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-        <link href='https://fonts.googleapis.com/css?family=Itim&subset=thai' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Kanit:300&subset=thai' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kanit:300&subset=thai" type="text/css">
+        <script>
+            window.onerror = function(str) { alert(str); }
+        </script>
         <style>
             .card {
                 font-size: 48pt;
@@ -17,13 +19,16 @@
                 width:100%;
                 top:50%;
                 transform: translateY(-50%);
+                outline:none;
+                -webkit-user-select:none;
+                user-select:none;
                 cursor:pointer;
             }
             .modern .card-front {
                 font-family:'Kanit';
             }
             .traditional .card-front {
-                font-family:'Itim';
+                font-family:serif;
             }
             .card-front { display: block; }
             .card-back { display:none; }
