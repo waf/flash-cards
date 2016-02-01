@@ -21254,7 +21254,7 @@
 	    var googleTranslateLink = "https://translate.google.com/#th/en/" + card.question;
 	    return _react2.default.createElement(
 	        _Layout.Header,
-	        { transparent: true, title: 'Title', style: { color: 'white' } },
+	        { transparent: true },
 	        _react2.default.createElement(
 	            _Layout.Navigation,
 	            null,
