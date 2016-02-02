@@ -4,7 +4,7 @@ import {Header, Navigation, Drawer} from 'react-mdl/lib/Layout';
 import Switch from 'react-mdl/lib/Switch';
 
 var TopMenu = ({card}) => {
-    var googleTranslateLink = "https://translate.google.com/#th/en/" + card.question;
+    var googleTranslateLink = "https://translate.google.com/m/translate#th/en/" + card.question;
     return <Header transparent>
         <Navigation>
             <a target="_blank" href={googleTranslateLink}>Google Lookup</a>
