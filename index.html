@@ -11,15 +11,19 @@
             window.onerror = function(str) { alert(str); }
         </script>
         <style>
-            .card {
+            .card .content {
                 font-size: 48pt;
                 line-height: 48pt;
+            }
+            .card {
                 text-align:center;
                 position:absolute;
                 width:100%;
                 top:50%;
                 transform: translateY(-50%);
                 outline:none;
+                -webkit-tap-highlight-color: rgba(255, 255, 255, 0); 
+                -webkit-tap-highlight-color: transparent;
                 -webkit-user-select:none;
                 user-select:none;
                 cursor:pointer;
@@ -40,9 +44,23 @@
                 width:100%;
                 text-align:center;
             }
+            .feedback label {
+                padding: 1em;
+                cursor: pointer;
+            }
             .feedback button {
                 margin:2em;
                 transform: scale(2);
+            }
+            .feedback label:first-child {
+            }
+            .feedback label:last-child {
+            }
+            .feedback label:first-child button {
+                margin-left:1em;
+            }
+            .feedback label:last-child button {
+                margin-right:1em;
             }
             .win-message {
                 color: #3f51b5;
@@ -53,7 +71,7 @@
                 transform: translateY(-50%);
             }
 
-            .mdl-spinner {
+            .centered {
                 position:absolute;
                 top:50%;
                 left:50%;
@@ -70,8 +88,9 @@
         </style>
     </head>
     <body>
-        <div id="app"></div>
-
+        <div id="app">
+            <p class="centered">Loading</p>
+        </div>
         <script src="lib/material.min.js"></script>
         <script src="build/bundle.js"></script>
     </body>

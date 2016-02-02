@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import {Layout, Content} from 'react-mdl/lib/Layout';
-import Spinner from 'react-mdl/lib/Spinner';
 import ProgressBar from 'react-mdl/lib/ProgressBar';
 import {Card, CardView} from './card';
 import {TopMenu, SideMenu} from './menu';
@@ -74,7 +73,7 @@ class Application extends React.Component {
         switch(this.state.gameMode) {
             case GameMode.Playing:
                 if(!this.state.card) {
-                    return <Spinner />;
+                    return <div />;
                 }
                 return (
                     <Layout className={this.state.font}>
