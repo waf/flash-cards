@@ -40,14 +40,14 @@ export class CardView extends React.Component {
     render() {
         return <div onClick={this.flipCard}
                     className={classnames("card", {'flipped': this.state.isFlipped})}>
-                    <div className="card-front">
-                        <div>{this.props.card.question}</div>
+                    <div className="card-front content">
+                        {this.props.card.question}
                     </div>
                     <div className="card-back">
-                        <div>{this.props.card.answer}</div>
+                        <div className="content">{this.props.card.answer}</div>
                         <div className="feedback">
-                            <IconButton name="mood_bad" onClick={this.onIncorrectAnswer} />
-                            <IconButton name="mood" onClick={this.onCorrectAnswer} />
+                            <label>Oops <IconButton name="mood_bad" onClick={this.onIncorrectAnswer} /></label>
+                            <label><IconButton name="mood" onClick={this.onCorrectAnswer} /> Got it!</label>
                         </div>
                     </div>
                 </div>
