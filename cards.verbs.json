@@ -1,0 +1,366 @@
+[
+    {
+        "answer": "to work", 
+        "question": "ไปทำงาน"
+    }, 
+    {
+        "answer": "to play", 
+        "question": "เล่น"
+    }, 
+    {
+        "answer": "to walk", 
+        "question": "ที่จะเดิน"
+    }, 
+    {
+        "answer": "to run", 
+        "question": "วิ่ง"
+    }, 
+    {
+        "answer": "to drive", 
+        "question": "ขับ"
+    }, 
+    {
+        "answer": "to fly", 
+        "question": "บิน"
+    }, 
+    {
+        "answer": "to swim", 
+        "question": "ว่ายน้ำ"
+    }, 
+    {
+        "answer": "to go", 
+        "question": "ไป"
+    }, 
+    {
+        "answer": "to stop", 
+        "question": "หยุด"
+    }, 
+    {
+        "answer": "to follow", 
+        "question": "ตาม"
+    }, 
+    {
+        "answer": "to think", 
+        "question": "คิด"
+    }, 
+    {
+        "answer": "to speak", 
+        "question": "พูด"
+    }, 
+    {
+        "answer": "to say", 
+        "question": "บอกว่า"
+    }, 
+    {
+        "answer": "to chat", 
+        "question": "คุย"
+    }, 
+    {
+        "answer": "to tell", 
+        "question": "บอก"
+    }, 
+    {
+        "answer": "to whisper", 
+        "question": "กระซิบ"
+    }, 
+    {
+        "answer": "to yell", 
+        "question": "ตะโกน"
+    }, 
+    {
+        "answer": "to eat", 
+        "question": "กิน"
+    }, 
+    {
+        "answer": "to drink", 
+        "question": "ดื่ม"
+    }, 
+    {
+        "answer": "to kill", 
+        "question": "ฆ่า"
+    }, 
+    {
+        "answer": "to die", 
+        "question": "ตาย"
+    }, 
+    {
+        "answer": "to win", 
+        "question": "ชนะ"
+    }, 
+    {
+        "answer": "to lose", 
+        "question": "แพ้"
+    }, 
+    {
+        "answer": "to smile", 
+        "question": "ยิ้ม"
+    }, 
+    {
+        "answer": "to laugh", 
+        "question": "หัวเราะ"
+    }, 
+    {
+        "answer": "to cry", 
+        "question": "ร้องไห้"
+    }, 
+    {
+        "answer": "to buy", 
+        "question": "ซื้อ"
+    }, 
+    {
+        "answer": "to pay", 
+        "question": "จ่าย"
+    }, 
+    {
+        "answer": "to sell", 
+        "question": "ขาย"
+    }, 
+    {
+        "answer": "to shoot a gun", 
+        "question": "ยิงปืน"
+    }, 
+    {
+        "answer": "to learn", 
+        "question": "เรียน"
+    }, 
+    {
+        "answer": "to jump", 
+        "question": "กระโดด"
+    }, 
+    {
+        "answer": "to smell", 
+        "question": "ดม"
+    }, 
+    {
+        "answer": "to hear sound", 
+        "question": "ได้ยินเสียง"
+    }, 
+    {
+        "answer": "to listen to music", 
+        "question": "ฟังเพลง"
+    }, 
+    {
+        "answer": "to taste", 
+        "question": "ชิม"
+    }, 
+    {
+        "answer": "to touch", 
+        "question": "จับ"
+    }, 
+    {
+        "answer": "to see a bird", 
+        "question": "เห็น"
+    }, 
+    {
+        "answer": "to watch tv", 
+        "question": "ดูทีวี"
+    }, 
+    {
+        "answer": "to kiss", 
+        "question": "จูบ"
+    }, 
+    {
+        "answer": "to burn", 
+        "question": "เผา"
+    }, 
+    {
+        "answer": "to melt", 
+        "question": "ละลาย"
+    }, 
+    {
+        "answer": "to dig", 
+        "question": "ขุด"
+    }, 
+    {
+        "answer": "to explode", 
+        "question": "ระเบิด"
+    }, 
+    {
+        "answer": "to sit", 
+        "question": "นั่ง"
+    }, 
+    {
+        "answer": "to stand", 
+        "question": "ยืน"
+    }, 
+    {
+        "answer": "to love", 
+        "question": "รัก"
+    }, 
+    {
+        "answer": "to pass by", 
+        "question": "ผ่าน"
+    }, 
+    {
+        "answer": "to cut", 
+        "question": "ตัด"
+    }, 
+    {
+        "answer": "to fight", 
+        "question": "ต่อสู้"
+    }, 
+    {
+        "answer": "to lie down", 
+        "question": "นอน"
+    }, 
+    {
+        "answer": "to dance", 
+        "question": "เต้น"
+    }, 
+    {
+        "answer": "to sleep", 
+        "question": "นอน"
+    }, 
+    {
+        "answer": "to wake up", 
+        "question": "ตื่น"
+    }, 
+    {
+        "answer": "to sing", 
+        "question": "ร้องเพลง"
+    }, 
+    {
+        "answer": "to count", 
+        "question": "นับ"
+    }, 
+    {
+        "answer": "to marry", 
+        "question": "แต่งงาน"
+    }, 
+    {
+        "answer": "to pray", 
+        "question": "อธิษฐาน"
+    }, 
+    {
+        "answer": "to win", 
+        "question": "ชนะ"
+    }, 
+    {
+        "answer": "to lose", 
+        "question": "แพ้"
+    }, 
+    {
+        "answer": "to mix/stir", 
+        "question": "คน"
+    }, 
+    {
+        "answer": "to bend", 
+        "question": "งอ"
+    }, 
+    {
+        "answer": "to wash", 
+        "question": "ล้าง"
+    }, 
+    {
+        "answer": "to cook", 
+        "question": "ทำอาหาร"
+    }, 
+    {
+        "answer": "to open", 
+        "question": "เปิด"
+    }, 
+    {
+        "answer": "to close", 
+        "question": "ปิด"
+    }, 
+    {
+        "answer": "to write", 
+        "question": "เขียน"
+    }, 
+    {
+        "answer": "to call", 
+        "question": "เรียก"
+    }, 
+    {
+        "answer": "to turn", 
+        "question": "หมุน"
+    }, 
+    {
+        "answer": "to build", 
+        "question": "สร้าง"
+    }, 
+    {
+        "answer": "to teach", 
+        "question": "สอน"
+    }, 
+    {
+        "answer": "to grow", 
+        "question": "เติบโต"
+    }, 
+    {
+        "answer": "to draw", 
+        "question": "วาด"
+    }, 
+    {
+        "answer": "to feed", 
+        "question": "ให้อาหาร"
+    }, 
+    {
+        "answer": "to catch", 
+        "question": "จับ"
+    }, 
+    {
+        "answer": "to throw", 
+        "question": "โยน"
+    }, 
+    {
+        "answer": "to clean", 
+        "question": "ทำความสะอาด"
+    }, 
+    {
+        "answer": "to find", 
+        "question": "หา_เจอ"
+    }, 
+    {
+        "answer": "to fall", 
+        "question": "ตก"
+    }, 
+    {
+        "answer": "to stumble", 
+        "question": "สะดุด"
+    }, 
+    {
+        "answer": "to fall in love", 
+        "question": "ตกหลุมรัก"
+    }, 
+    {
+        "answer": "to push", 
+        "question": "ผลัก"
+    }, 
+    {
+        "answer": "to pull", 
+        "question": "ดึง"
+    }, 
+    {
+        "answer": "to carry", 
+        "question": "ถือ"
+    }, 
+    {
+        "answer": "to break", 
+        "question": "ทำให้พัง\nหัก"
+    }, 
+    {
+        "answer": "to wear", 
+        "question": "ใส่"
+    }, 
+    {
+        "answer": "to hang", 
+        "question": "แขวน"
+    }, 
+    {
+        "answer": "to shake", 
+        "question": "เขย่า"
+    }, 
+    {
+        "answer": "to sign", 
+        "question": "เซนต์"
+    }, 
+    {
+        "answer": "to beat", 
+        "question": "ตี"
+    }, 
+    {
+        "answer": "to lift", 
+        "question": "ยก"
+    }
+] 
