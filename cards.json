@@ -1,4 +1,4 @@
-{
+[
     {
         "answer": "map", 
         "question": "แผนที่"
@@ -1127,4 +1127,4 @@
         "answer": "clothing", 
         "question": "เสื้อผ้า"
     }
-}
+]
