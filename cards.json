@@ -1,1130 +1,284 @@
 [
-    {
-        "answer": "map", 
-        "question": "แผนที่"
-    }, 
-    {
-        "answer": "dot", 
-        "question": "จุด"
-    }, 
-    {
-        "answer": "consonant", 
-        "question": "พยัญชนะ"
-    }, 
-    {
-        "answer": "vowel", 
-        "question": "สระ"
-    }, 
-    {
-        "answer": "light", 
-        "question": "เบา"
-    }, 
-    {
-        "answer": "sound", 
-        "question": "เสียง"
-    }, 
-    {
-        "answer": "yes", 
-        "question": "ใช่"
-    }, 
-    {
-        "answer": "no", 
-        "question": "ไม่"
-    }, 
-    {
-        "answer": "piece", 
-        "question": "ชิ้น"
-    }, 
-    {
-        "answer": "pain", 
-        "question": "ความเจ็บปวด"
-    }, 
-    {
-        "answer": "injury", 
-        "question": "ได้รับบาดเจ็บ"
-    }, 
-    {
-        "answer": "hole", 
-        "question": "รู"
-    }, 
-    {
-        "answer": "image", 
-        "question": "ภาพ"
-    }, 
-    {
-        "answer": "pattern", 
-        "question": "ลวดลาย"
-    }, 
-    {
-        "answer": "noun", 
-        "question": "คำนาม"
-    }, 
-    {
-        "answer": "verb", 
-        "question": "คำกริยา"
-    }, 
-    {
-        "answer": "adjective", 
-        "question": "คำคุณศัพท์"
-    },
-    {
-        "answer": "city", 
-        "question": "เมือง"
-    }, 
-    {
-        "answer": "house", 
-        "question": "บ้าน"
-    }, 
-    {
-        "answer": "apartment", 
-        "question": "อพาร์ทเม้น"
-    }, 
-    {
-        "answer": "street/road", 
-        "question": "ถนน / ถนน"
-    }, 
-    {
-        "answer": "airport", 
-        "question": "สนามบิน"
-    }, 
-    {
-        "answer": "train station", 
-        "question": "สถานีรถไฟ"
-    }, 
-    {
-        "answer": "bridge", 
-        "question": "สะพาน"
-    }, 
-    {
-        "answer": "hotel", 
-        "question": "โรงแรม"
-    }, 
-    {
-        "answer": "restaurant", 
-        "question": "ร้านอาหาร"
-    }, 
-    {
-        "answer": "farm", 
-        "question": "ฟาร์ม"
-    }, 
-    {
-        "answer": "court", 
-        "question": "ศาล"
-    }, 
-    {
-        "answer": "school", 
-        "question": "โรงเรียน"
-    }, 
-    {
-        "answer": "office", 
-        "question": "สำนักงาน"
-    }, 
-    {
-        "answer": "room", 
-        "question": "ห้อง"
-    }, 
-    {
-        "answer": "town", 
-        "question": "ตัวเมือง"
-    }, 
-    {
-        "answer": "university", 
-        "question": "มหาวิทยาลัย"
-    }, 
-    {
-        "answer": "club", 
-        "question": "สโมสร"
-    }, 
-    {
-        "answer": "bar", 
-        "question": "บาร์"
-    }, 
-    {
-        "answer": "park", 
-        "question": "สวน"
-    }, 
-    {
-        "answer": "camp", 
-        "question": "ค่าย"
-    }, 
-    {
-        "answer": "store/shop", 
-        "question": "ร้านค้า / ร้านค้า"
-    }, 
-    {
-        "answer": "theater", 
-        "question": "โรงละคร"
-    }, 
-    {
-        "answer": "library", 
-        "question": "ห้องสมุด"
-    }, 
-    {
-        "answer": "hospital", 
-        "question": "โรงพยาบาล"
-    }, 
-    {
-        "answer": "temple", 
-        "question": "วัด"
-    }, 
-    {
-        "answer": "church", 
-        "question": "โบสถ์"
-    }, 
-    {
-        "answer": "market", 
-        "question": "ตลาด"
-    }, 
-    {
-        "answer": "country", 
-        "question": "ประเทศ"
-    }, 
-    {
-        "answer": "nation", 
-        "question": "ประเทศชาติ"
-    }, 
-    {
-        "answer": "state", 
-        "question": "รัฐ"
-    }, 
-    {
-        "answer": "province", 
-        "question": "จังหวัด"
-    }, 
-    {
-        "answer": "district", 
-        "question": "ตำบล"
-    }, 
-    {
-        "answer": "building", 
-        "question": "อาคาร"
-    }, 
-    {
-        "answer": "ground", 
-        "question": "พื้น"
-    }, 
-    {
-        "answer": "outer space", 
-        "question": "นอกโลก"
-    }, 
-    {
-        "answer": "bank", 
-        "question": "ธนาคาร"
-    }, 
-    {
-        "answer": "location", 
-        "question": "สถานที่"
-    },
-    {
-        "answer": "dog", 
-        "question": "หมา"
-    }, 
-    {
-        "answer": "cat", 
-        "question": "แมว"
-    }, 
-    {
-        "answer": "fish", 
-        "question": "ปลา"
-    }, 
-    {
-        "answer": "bird", 
-        "question": "นก"
-    }, 
-    {
-        "answer": "cow", 
-        "question": "วัว"
-    }, 
-    {
-        "answer": "sheep", 
-        "question": "แกะ"
-    }, 
-    {
-        "answer": "goat", 
-        "question": "แพะ"
-    }, 
-    {
-        "answer": "pig", 
-        "question": "หมู"
-    }, 
-    {
-        "answer": "mouse", 
-        "question": "เม้าส์"
-    }, 
-    {
-        "answer": "rat", 
-        "question": "หนู"
-    }, 
-    {
-        "answer": "horse", 
-        "question": "ม้า"
-    }, 
-    {
-        "answer": "wing", 
-        "question": "ปีก"
-    }, 
-    {
-        "answer": "animal", 
-        "question": "สัตว์"
-    },
-    {
-        "answer": "clock", 
-        "question": "นาฬิกา"
-    }, 
-    {
-        "answer": "lamp", 
-        "question": "โคมไฟ"
-    }, 
-    {
-        "answer": "fan", 
-        "question": "แฟน"
-    }, 
-    {
-        "answer": "cell phone", 
-        "question": "โทรศัพท์มือถือ"
-    }, 
-    {
-        "answer": "network", 
-        "question": "เครือข่าย"
-    }, 
-    {
-        "answer": "computer", 
-        "question": "คอมพิวเตอร์"
-    }, 
-    {
-        "answer": "computer program", 
-        "question": "โปรแกรมคอมพิวเตอร์"
-    }, 
-    {
-        "answer": "laptop", 
-        "question": "แล็ปท็อป"
-    }, 
-    {
-        "answer": "screen", 
-        "question": "หน้าจอ"
-    }, 
-    {
-        "answer": "camera", 
-        "question": "กล้อง"
-    }, 
-    {
-        "answer": "television", 
-        "question": "โทรทัศน์"
-    }, 
-    {
-        "answer": "internet", 
-        "question": "อินเทอร์เน็ต"
-    }, 
-    {
-        "answer": "download", 
-        "question": "ดาวน์โหลด"
-    }, 
-    {
-        "answer": "install", 
-        "question": "ติดตั้ง"
-    }, 
-    {
-        "answer": "wifi", 
-        "question": "อินเตอร์เน็ตไร้สาย"
-    }, 
-    {
-        "answer": "radio", 
-        "question": "วิทยุ"
-    },
-    {
-        "answer": "head", 
-        "question": "หัว"
-    }, 
-    {
-        "answer": "fur", 
-        "question": "ขน"
-    }, 
-    {
-        "answer": "neck", 
-        "question": "คอ"
-    }, 
-    {
-        "answer": "face", 
-        "question": "ใบหน้า"
-    }, 
-    {
-        "answer": "beard", 
-        "question": "เครา"
-    }, 
-    {
-        "answer": "hair", 
-        "question": "ผม"
-    }, 
-    {
-        "answer": "eye", 
-        "question": "ตา"
-    }, 
-    {
-        "answer": "mouth", 
-        "question": "ปาก"
-    }, 
-    {
-        "answer": "lips", 
-        "question": "ริมฝีปาก"
-    }, 
-    {
-        "answer": "nose", 
-        "question": "จมูก"
-    }, 
-    {
-        "answer": "tooth", 
-        "question": "ฟัน"
-    }, 
-    {
-        "answer": "ear", 
-        "question": "หู"
-    }, 
-    {
-        "answer": "teardrop", 
-        "question": "หยดน้ำตา"
-    }, 
-    {
-        "answer": "tongue", 
-        "question": "ลิ้น"
-    }, 
-    {
-        "answer": "back", 
-        "question": "กลับ"
-    }, 
-    {
-        "answer": "toe", 
-        "question": "นิ้วเท้า"
-    }, 
-    {
-        "answer": "finger", 
-        "question": "นิ้ว"
-    }, 
-    {
-        "answer": "foot", 
-        "question": "เท้า"
-    }, 
-    {
-        "answer": "hand", 
-        "question": "มือ"
-    }, 
-    {
-        "answer": "leg", 
-        "question": "ขา"
-    }, 
-    {
-        "answer": "arm", 
-        "question": "แขน"
-    }, 
-    {
-        "answer": "shoulder", 
-        "question": "ไหล่"
-    }, 
-    {
-        "answer": "heart", 
-        "question": "หัวใจ"
-    }, 
-    {
-        "answer": "blood", 
-        "question": "เลือด"
-    }, 
-    {
-        "answer": "brain", 
-        "question": "สมอง"
-    }, 
-    {
-        "answer": "knee", 
-        "question": "เข่า"
-    }, 
-    {
-        "answer": "sweat", 
-        "question": "เหงื่อ"
-    }, 
-    {
-        "answer": "disease", 
-        "question": "โรค"
-    }, 
-    {
-        "answer": "bone", 
-        "question": "กระดูก"
-    }, 
-    {
-        "answer": "voice", 
-        "question": "เสียงพูด"
-    }, 
-    {
-        "answer": "skin", 
-        "question": "ผิว"
-    }, 
-    {
-        "answer": "fingernail", 
-        "question": "เล็บมือ"
-    }, 
-    {
-        "answer": "eyebrow", 
-        "question": "คิ้ว"
-    }, 
-    {
-        "answer": "eyelash", 
-        "question": "ขนตา"
-    }, 
-    {
-        "answer": "corpse", 
-        "question": "ศพ"
-    }, 
-    {
-        "answer": "human body", 
-        "question": "ร่างกายมนุษย์"
-    },
-    {
-        "answer": "sea*", 
-        "question": "ทะเล*"
-    }, 
-    {
-        "answer": "ocean*", 
-        "question": "มหาสมุทร"
-    }, 
-    {
-        "answer": "river", 
-        "question": "แม่น้ำ"
-    }, 
-    {
-        "answer": "mountain", 
-        "question": "ภูเขา"
-    }, 
-    {
-        "answer": "rain", 
-        "question": "ฝน"
-    }, 
-    {
-        "answer": "snow", 
-        "question": "หิมะ"
-    }, 
-    {
-        "answer": "tree", 
-        "question": "ต้นไม้"
-    }, 
-    {
-        "answer": "sun", 
-        "question": "ดวงอาทิตย์"
-    }, 
-    {
-        "answer": "moon", 
-        "question": "ดวงจันทร์"
-    }, 
-    {
-        "answer": "world", 
-        "question": "โลก"
-    }, 
-    {
-        "answer": "Earth", 
-        "question": "โลก"
-    }, 
-    {
-        "answer": "forest", 
-        "question": "ป่า"
-    }, 
-    {
-        "answer": "sky", 
-        "question": "ท้องฟ้า"
-    }, 
-    {
-        "answer": "plant", 
-        "question": "ปลูก"
-    }, 
-    {
-        "answer": "wind", 
-        "question": "ลม"
-    }, 
-    {
-        "answer": "soil/earth", 
-        "question": "ดิน / โลก"
-    }, 
-    {
-        "answer": "flower", 
-        "question": "ดอกไม้"
-    }, 
-    {
-        "answer": "valley", 
-        "question": "หุบเขา"
-    }, 
-    {
-        "answer": "root", 
-        "question": "ราก"
-    }, 
-    {
-        "answer": "lake", 
-        "question": "ทะเลสาป"
-    }, 
-    {
-        "answer": "star", 
-        "question": "ดาว"
-    }, 
-    {
-        "answer": "grass", 
-        "question": "หญ้า"
-    }, 
-    {
-        "answer": "leaf", 
-        "question": "ใบไม้"
-    }, 
-    {
-        "answer": "air", 
-        "question": "อากาศ"
-    }, 
-    {
-        "answer": "sand", 
-        "question": "ทราย"
-    }, 
-    {
-        "answer": "beach", 
-        "question": "ชายหาด"
-    }, 
-    {
-        "answer": "wave", 
-        "question": "คลื่น"
-    }, 
-    {
-        "answer": "fire", 
-        "question": "ไฟ"
-    }, 
-    {
-        "answer": "ice", 
-        "question": "น้ำแข็ง"
-    }, 
-    {
-        "answer": "island", 
-        "question": "เกาะ"
-    }, 
-    {
-        "answer": "hill", 
-        "question": "เนินเขา"
-    }, 
-    {
-        "answer": "heat", 
-        "question": "ความร้อน"
-    }, 
-    {
-        "answer": "north", 
-        "question": "เหนือ"
-    }, 
-    {
-        "answer": "south", 
-        "question": "ใต้"
-    }, 
-    {
-        "answer": "east", 
-        "question": "ตะวันออก"
-    }, 
-    {
-        "answer": "west", 
-        "question": "ตะวันตก"
-    }, 
-    {
-        "answer": "northeast", 
-        "question": "ตะวันออกเฉียงเหนือ"
-    }, 
-    {
-        "answer": "northwest", 
-        "question": "ตะวันตกเฉียงเหนือ"
-    }, 
-    {
-        "answer": "southeast", 
-        "question": "ตะวันออกเฉียงใต้"
-    }, 
-    {
-        "answer": "southwest", 
-        "question": "ตะวันตกเฉียงใต้"
-    }, 
-    {
-        "answer": "north pole", 
-        "question": "ขั้วโลกเหนือ"
-    }, 
-    {
-        "answer": "south pole", 
-        "question": "ขั้วโลกใต้"
-    }, 
-    {
-        "answer": "nature", 
-        "question": "ธรรมชาติ"
-    },
-    {
-        "answer": "top", 
-        "question": "ด้านบน"
-    }, 
-    {
-        "answer": "bottom", 
-        "question": "ด้านล่าง"
-    }, 
-    {
-        "answer": "side", 
-        "question": "ด้าน"
-    }, 
-    {
-        "answer": "front", 
-        "question": "ด้านหน้า"
-    }, 
-    {
-        "answer": "back", 
-        "question": "ด้านหลัง"
-    }, 
-    {
-        "answer": "outside", 
-        "question": "ข้างนอก"
-    }, 
-    {
-        "answer": "inside", 
-        "question": "ข้างใน"
-    }, 
-    {
-        "answer": "up", 
-        "question": "ขึ้น"
-    }, 
-    {
-        "answer": "down", 
-        "question": "ลง"
-    }, 
-    {
-        "answer": "left", 
-        "question": "ซ้าย"
-    }, 
-    {
-        "answer": "right", 
-        "question": "ขวา"
-    }, 
-    {
-        "answer": "straight", 
-        "question": "ตรง"
-    }, 
-    {
-        "answer": "beside", 
-        "question": "ข้าง"
-    }, 
-    {
-        "answer": "at", 
-        "question": "ที่\nตรง"
-    }, 
-    {
-        "answer": "direction", 
-        "question": "ทิศทาง"
-    },
-    {
-        "answer": "religion", 
-        "question": "ศาสนา"
-    }, 
-    {
-        "answer": "heaven", 
-        "question": "สวรรค์"
-    }, 
-    {
-        "answer": "hell", 
-        "question": "นรก"
-    }, 
-    {
-        "answer": "god", 
-        "question": "พระเจ้า"
-    }, 
-    {
-        "answer": "devil", 
-        "question": "มาร"
-    }, 
-    {
-        "answer": "angel", 
-        "question": "ทูตสวรรค์"
-    }, 
-    {
-        "answer": "fairy", 
-        "question": "นางฟ้า"
-    }, 
-    {
-        "answer": "spirit", 
-        "question": "วิญญาณ"
-    }, 
-    {
-        "answer": "demon", 
-        "question": "ปิศาจ"
-    }, 
-    {
-        "answer": "death", 
-        "question": "ความตาย"
-    }, 
-    {
-        "answer": "medicine", 
-        "question": "ยา"
-    }, 
-    {
-        "answer": "money", 
-        "question": "เงิน"
-    }, 
-    {
-        "answer": "dollar", 
-        "question": "ดอลลาร์"
-    }, 
-    {
-        "answer": "bill", 
-        "question": "บิล"
-    }, 
-    {
-        "answer": "marriage*", 
-        "question": "แต่งงาน *"
-    }, 
-    {
-        "answer": "wedding*", 
-        "question": "งานแต่งงาน *"
-    }, 
-    {
-        "answer": "team", 
-        "question": "ทีม"
-    }, 
-    {
-        "answer": "ethnicity", 
-        "question": "เชื้อชาติ"
-    }, 
-    {
-        "answer": "sexual intercourse", 
-        "question": "เพศสัมพันธ์"
-    }, 
-    {
-        "answer": "gender", 
-        "question": "เพศ"
-    }, 
-    {
-        "answer": "murder", 
-        "question": "ฆาตกรรม"
-    }, 
-    {
-        "answer": "prison", 
-        "question": "คุก"
-    }, 
-    {
-        "answer": "technology", 
-        "question": "เทคโนโลยี"
-    }, 
-    {
-        "answer": "energy", 
-        "question": "พลังงาน"
-    }, 
-    {
-        "answer": "war", 
-        "question": "สงคราม"
-    }, 
-    {
-        "answer": "peace", 
-        "question": "ความสงบสุข"
-    }, 
-    {
-        "answer": "attack", 
-        "question": "โจมตี"
-    }, 
-    {
-        "answer": "democracy", 
-        "question": "ประชาธิปไตย"
-    }, 
-    {
-        "answer": "capitalism", 
-        "question": "ระบบทุนนิยม"
-    }, 
-    {
-        "answer": "socialism", 
-        "question": "สังคมนิยม"
-    }, 
-    {
-        "answer": "communism", 
-        "question": "คอมมิวนิสต์"
-    }, 
-    {
-        "answer": "dictator", 
-        "question": "เผด็จการ"
-    }, 
-    {
-        "answer": "election", 
-        "question": "การเลือกตั้ง"
-    }, 
-    {
-        "answer": "magazine", 
-        "question": "นิตยสาร"
-    }, 
-    {
-        "answer": "newspaper", 
-        "question": "หนังสือพิมพ์"
-    }, 
-    {
-        "answer": "poison", 
-        "question": "ยาพิษ"
-    }, 
-    {
-        "answer": "gun", 
-        "question": "ปืน"
-    }, 
-    {
-        "answer": "sport", 
-        "question": "กีฬา"
-    }, 
-    {
-        "answer": "sport race", 
-        "question": "การแข่งขันกีฬา"
-    }, 
-    {
-        "answer": "exercise", 
-        "question": "การออกกำลังกาย"
-    }, 
-    {
-        "answer": "ball", 
-        "question": "ลูกบอล"
-    }, 
-    {
-        "answer": "game", 
-        "question": "เกม"
-    }, 
-    {
-        "answer": "price", 
-        "question": "ราคา"
-    }, 
-    {
-        "answer": "contract", 
-        "question": "สัญญา"
-    }, 
-    {
-        "answer": "drug", 
-        "question": "ยา"
-    }, 
-    {
-        "answer": "sign", 
-        "question": "สัญญาณ"
-    }, 
-    {
-        "answer": "science", 
-        "question": "วิทยาศาสตร์"
-    }, 
-    {
-        "answer": "God", 
-        "question": "พระเจ้า"
-    },
-    {
-        "answer": "table", 
-        "question": "ตาราง"
-    }, 
-    {
-        "answer": "chair", 
-        "question": "เก้าอี้"
-    }, 
-    {
-        "answer": "bed", 
-        "question": "เตียง"
-    }, 
-    {
-        "answer": "dream", 
-        "question": "ฝัน"
-    }, 
-    {
-        "answer": "window", 
-        "question": "หน้าต่าง"
-    }, 
-    {
-        "answer": "door", 
-        "question": "ประตู"
-    }, 
-    {
-        "answer": "bedroom", 
-        "question": "ห้องนอน"
-    }, 
-    {
-        "answer": "kitchen", 
-        "question": "ครัว"
-    }, 
-    {
-        "answer": "bathroom", 
-        "question": "ห้องอาบน้ำ"
-    }, 
-    {
-        "answer": "pencil", 
-        "question": "ดินสอ"
-    }, 
-    {
-        "answer": "pen", 
-        "question": "ปากกา"
-    }, 
-    {
-        "answer": "photograph", 
-        "question": "ถ่ายภาพ"
-    }, 
-    {
-        "answer": "soap", 
-        "question": "สบู่"
-    }, 
-    {
-        "answer": "book", 
-        "question": "หนังสือ"
-    }, 
-    {
-        "answer": "page", 
-        "question": "หน้า"
-    }, 
-    {
-        "answer": "key", 
-        "question": "กุญแจ"
-    }, 
-    {
-        "answer": "paint", 
-        "question": "สี"
-    }, 
-    {
-        "answer": "letter", 
-        "question": "จดหมาย"
-    }, 
-    {
-        "answer": "note", 
-        "question": "บันทึก"
-    }, 
-    {
-        "answer": "wall", 
-        "question": "ผนัง"
-    }, 
-    {
-        "answer": "brick", 
-        "question": "อิฐ"
-    }, 
-    {
-        "answer": "tile", 
-        "question": "กระเบื้อง"
-    }, 
-    {
-        "answer": "wood", 
-        "question": "เนื้อไม้"
-    }, 
-    {
-        "answer": "concrete", 
-        "question": "คอนกรีต"
-    }, 
-    {
-        "answer": "paper", 
-        "question": "กระดาษ"
-    }, 
-    {
-        "answer": "floor", 
-        "question": "ชั้น"
-    }, 
-    {
-        "answer": "ceiling", 
-        "question": "เพดาน"
-    }, 
-    {
-        "answer": "roof", 
-        "question": "หลังคา"
-    }, 
-    {
-        "answer": "pool", 
-        "question": "สระ"
-    }, 
-    {
-        "answer": "lock", 
-        "question": "ล็อค"
-    }, 
-    {
-        "answer": "telephone", 
-        "question": "โทรศัพท์"
-    }, 
-    {
-        "answer": "garden", 
-        "question": "สวน"
-    }, 
-    {
-        "answer": "yard", 
-        "question": "ลาน"
-    }, 
-    {
-        "answer": "needle", 
-        "question": "เข็ม"
-    }, 
-    {
-        "answer": "bag", 
-        "question": "กระเป๋า"
-    }, 
-    {
-        "answer": "box", 
-        "question": "กล่อง"
-    }, 
-    {
-        "answer": "gift", 
-        "question": "ของขวัญ"
-    }, 
-    {
-        "answer": "card", 
-        "question": "บัตร"
-    }, 
-    {
-        "answer": "ring", 
-        "question": "แหวน"
-    }, 
-    {
-        "answer": "tool", 
-        "question": "เครื่องมือ"
-    },
-    {
-        "answer": "hat", 
-        "question": "หมวก"
-    }, 
-    {
-        "answer": "dress", 
-        "question": "การแต่งกาย"
-    }, 
-    {
-        "answer": "suit", 
-        "question": "สูท"
-    }, 
-    {
-        "answer": "skirt", 
-        "question": "กระโปรง"
-    }, 
-    {
-        "answer": "shirt", 
-        "question": "เสื้อเชิ้ต"
-    }, 
-    {
-        "answer": "T-shirt", 
-        "question": "เสื้อยืดคอกลม"
-    }, 
-    {
-        "answer": "pants", 
-        "question": "กางเกง"
-    }, 
-    {
-        "answer": "shoes", 
-        "question": "รองเท้า"
-    }, 
-    {
-        "answer": "pocket", 
-        "question": "กระเป๋าเสื้อ"
-    }, 
-    {
-        "answer": "coat", 
-        "question": "เสื้อโค้ท"
-    }, 
-    {
-        "answer": "stain", 
-        "question": "คราบ"
-    }, 
-    {
-        "answer": "socks", 
-        "question": "ถุงเท้า"
-    }, 
-    {
-        "answer": "gloves", 
-        "question": "ถุงมือ"
-    }, 
-    {
-        "answer": "necktie", 
-        "question": "เนคไท"
-    }, 
-    {
-        "answer": "vest", 
-        "question": "เสื้อกั๊ก"
-    }, 
-    {
-        "answer": "scarf", 
-        "question": "ผ้าพันคอ"
-    }, 
-    {
-        "answer": "clothing", 
-        "question": "เสื้อผ้า"
-    }
+    { "question": "กระดาษ", "answer": "paper"},
+    { "question": "กระดูก", "answer": "bone"},
+    { "question": "กระเบื้อง", "answer": "tile"},
+    { "question": "กระเป๋า", "answer": "bag"},
+    { "question": "กระเป๋าเสื้อ", "answer": "pocket"},
+    { "question": "กระโปรง", "answer": "skirt"},
+    { "question": "กลับ", "answer": "back"},
+    { "question": "กล่อง", "answer": "box"},
+    { "question": "กล้อง", "answer": "camera"},
+    { "question": "กางเกง", "answer": "pants"},
+    { "question": "การออกกำลังกาย", "answer": "exercise"},
+    { "question": "การเลือกตั้ง", "answer": "election"},
+    { "question": "การแข่งขันกีฬา", "answer": "sport race"},
+    { "question": "การแต่งกาย", "answer": "dress"},
+    { "question": "กีฬา", "answer": "sport"},
+    { "question": "กุญแจ", "answer": "key"},
+    { "question": "ขน", "answer": "fur"},
+    { "question": "ขนตา", "answer": "eyelash"},
+    { "question": "ขวา", "answer": "right"},
+    { "question": "ของขวัญ", "answer": "gift"},
+    { "question": "ขั้วโลกเหนือ", "answer": "north pole"},
+    { "question": "ขั้วโลกใต้", "answer": "south pole"},
+    { "question": "ขา", "answer": "leg"},
+    { "question": "ขึ้น", "answer": "up"},
+    { "question": "ข้าง", "answer": "beside"},
+    { "question": "ข้างนอก", "answer": "outside"},
+    { "question": "ข้างใน", "answer": "inside"},
+    { "question": "ครัว", "answer": "kitchen"},
+    { "question": "คราบ", "answer": "stain"},
+    { "question": "คลื่น", "answer": "wave"},
+    { "question": "ความตาย", "answer": "death"},
+    { "question": "ความร้อน", "answer": "heat"},
+    { "question": "ความสงบสุข", "answer": "peace"},
+    { "question": "ความเจ็บปวด", "answer": "pain"},
+    { "question": "คอ", "answer": "neck"},
+    { "question": "คอนกรีต", "answer": "concrete"},
+    { "question": "คอมพิวเตอร์", "answer": "computer"},
+    { "question": "คอมมิวนิสต์", "answer": "communism"},
+    { "question": "คำกริยา", "answer": "verb"},
+    { "question": "คำคุณศัพท์", "answer": "adjective"},
+    { "question": "คำนาม", "answer": "noun"},
+    { "question": "คิ้ว", "answer": "eyebrow"},
+    { "question": "คุก", "answer": "prison"},
+    { "question": "ค่าย", "answer": "camp"},
+    { "question": "ฆาตกรรม", "answer": "murder"},
+    { "question": "งานแต่งงาน", "answer": "wedding"},
+    { "question": "จดหมาย", "answer": "letter"},
+    { "question": "จมูก", "answer": "nose"},
+    { "question": "จังหวัด", "answer": "province"},
+    { "question": "จุด", "answer": "dot"},
+    { "question": "ชั้น", "answer": "floor"},
+    { "question": "ชายหาด", "answer": "beach"},
+    { "question": "ชิ้น", "answer": "piece"},
+    { "question": "ซ้าย", "answer": "left"},
+    { "question": "ดวงจันทร์", "answer": "moon"},
+    { "question": "ดวงอาทิตย์", "answer": "sun"},
+    { "question": "ดอกไม้", "answer": "flower"},
+    { "question": "ดอลลาร์", "answer": "dollar"},
+    { "question": "ดาว", "answer": "star"},
+    { "question": "ดาวน์โหลด", "answer": "download"},
+    { "question": "ดิน / โลก", "answer": "soil/earth"},
+    { "question": "ดินสอ", "answer": "pencil"},
+    { "question": "ด้าน", "answer": "side"},
+    { "question": "ด้านบน", "answer": "top"},
+    { "question": "ด้านล่าง", "answer": "bottom"},
+    { "question": "ด้านหน้า", "answer": "front"},
+    { "question": "ด้านหลัง", "answer": "back"},
+    { "question": "ตรง", "answer": "straight"},
+    { "question": "ตลาด", "answer": "market"},
+    { "question": "ตะวันตก", "answer": "west"},
+    { "question": "ตะวันตกเฉียงเหนือ", "answer": "northwest"},
+    { "question": "ตะวันตกเฉียงใต้", "answer": "southwest"},
+    { "question": "ตะวันออก", "answer": "east"},
+    { "question": "ตะวันออกเฉียงเหนือ", "answer": "northeast"},
+    { "question": "ตะวันออกเฉียงใต้", "answer": "southeast"},
+    { "question": "ตัวเมือง", "answer": "town"},
+    { "question": "ตา", "answer": "eye"},
+    { "question": "ตาราง", "answer": "table"},
+    { "question": "ตำบล", "answer": "district"},
+    { "question": "ติดตั้ง", "answer": "install"},
+    { "question": "ต้นไม้", "answer": "tree"},
+    { "question": "ถนน / ถนน", "answer": "street/road"},
+    { "question": "ถุงมือ", "answer": "gloves"},
+    { "question": "ถุงเท้า", "answer": "socks"},
+    { "question": "ถ่ายภาพ", "answer": "photograph"},
+    { "question": "ทราย", "answer": "sand"},
+    { "question": "ทะเล", "answer": "sea"},
+    { "question": "ทะเลสาป", "answer": "lake"},
+    { "question": "ทิศทาง", "answer": "direction"},
+    { "question": "ทีม", "answer": "team"},
+    { "question": "ที่", "answer": "at"},
+    { "question": "ทูตสวรรค์", "answer": "angel"},
+    { "question": "ท้องฟ้า", "answer": "sky"},
+    { "question": "ธนาคาร", "answer": "bank"},
+    { "question": "ธรรมชาติ", "answer": "nature"},
+    { "question": "นก", "answer": "bird"},
+    { "question": "นรก", "answer": "hell"},
+    { "question": "นอกโลก", "answer": "outer space"},
+    { "question": "นางฟ้า", "answer": "fairy"},
+    { "question": "นาฬิกา", "answer": "clock"},
+    { "question": "นิตยสาร", "answer": "magazine"},
+    { "question": "นิ้ว", "answer": "finger"},
+    { "question": "นิ้วเท้า", "answer": "toe"},
+    { "question": "น้ำแข็ง", "answer": "ice"},
+    { "question": "บัตร", "answer": "card"},
+    { "question": "บันทึก", "answer": "note"},
+    { "question": "บาร์", "answer": "bar"},
+    { "question": "บิล", "answer": "bill"},
+    { "question": "บ้าน", "answer": "house"},
+    { "question": "ประชาธิปไตย", "answer": "democracy"},
+    { "question": "ประตู", "answer": "door"},
+    { "question": "ประเทศ", "answer": "country"},
+    { "question": "ประเทศชาติ", "answer": "nation"},
+    { "question": "ปลา", "answer": "fish"},
+    { "question": "ปลูก", "answer": "plant"},
+    { "question": "ปาก", "answer": "mouth"},
+    { "question": "ปากกา", "answer": "pen"},
+    { "question": "ปิศาจ", "answer": "demon"},
+    { "question": "ปีก", "answer": "wing"},
+    { "question": "ปืน", "answer": "gun"},
+    { "question": "ป่า", "answer": "forest"},
+    { "question": "ผนัง", "answer": "wall"},
+    { "question": "ผม", "answer": "hair"},
+    { "question": "ผิว", "answer": "skin"},
+    { "question": "ผ้าพันคอ", "answer": "scarf"},
+    { "question": "ฝน", "answer": "rain"},
+    { "question": "ฝัน", "answer": "dream"},
+    { "question": "พยัญชนะ", "answer": "consonant"},
+    { "question": "พระเจ้า", "answer": "God"},
+    { "question": "พระเจ้า", "answer": "god"},
+    { "question": "พลังงาน", "answer": "energy"},
+    { "question": "พื้น", "answer": "ground"},
+    { "question": "ฟัน", "answer": "tooth"},
+    { "question": "ฟาร์ม", "answer": "farm"},
+    { "question": "ภาพ", "answer": "image"},
+    { "question": "ภูเขา", "answer": "mountain"},
+    { "question": "มหาวิทยาลัย", "answer": "university"},
+    { "question": "มหาสมุทร", "answer": "ocean"},
+    { "question": "มาร", "answer": "devil"},
+    { "question": "มือ", "answer": "hand"},
+    { "question": "ม้า", "answer": "horse"},
+    { "question": "ยา", "answer": "drug"},
+    { "question": "ยา", "answer": "medicine"},
+    { "question": "ยาพิษ", "answer": "poison"},
+    { "question": "รองเท้า", "answer": "shoes"},
+    { "question": "ระบบทุนนิยม", "answer": "capitalism"},
+    { "question": "รัฐ", "answer": "state"},
+    { "question": "ราก", "answer": "root"},
+    { "question": "ราคา", "answer": "price"},
+    { "question": "ริมฝีปาก", "answer": "lips"},
+    { "question": "รู", "answer": "hole"},
+    { "question": "ร่างกายมนุษย์", "answer": "human body"},
+    { "question": "ร้านค้า / ร้านค้า", "answer": "store/shop"},
+    { "question": "ร้านอาหาร", "answer": "restaurant"},
+    { "question": "ลง", "answer": "down"},
+    { "question": "ลม", "answer": "wind"},
+    { "question": "ลวดลาย", "answer": "pattern"},
+    { "question": "ลาน", "answer": "yard"},
+    { "question": "ลิ้น", "answer": "tongue"},
+    { "question": "ลูกบอล", "answer": "ball"},
+    { "question": "ล็อค", "answer": "lock"},
+    { "question": "วัด", "answer": "temple"},
+    { "question": "วัว", "answer": "cow"},
+    { "question": "วิญญาณ", "answer": "spirit"},
+    { "question": "วิทยาศาสตร์", "answer": "science"},
+    { "question": "วิทยุ", "answer": "radio"},
+    { "question": "ศพ", "answer": "corpse"},
+    { "question": "ศาล", "answer": "court"},
+    { "question": "ศาสนา", "answer": "religion"},
+    { "question": "สงคราม", "answer": "war"},
+    { "question": "สถานที่", "answer": "location"},
+    { "question": "สถานีรถไฟ", "answer": "train station"},
+    { "question": "สนามบิน", "answer": "airport"},
+    { "question": "สบู่", "answer": "soap"},
+    { "question": "สมอง", "answer": "brain"},
+    { "question": "สระ", "answer": "pool"},
+    { "question": "สระ", "answer": "vowel"},
+    { "question": "สวน", "answer": "garden"},
+    { "question": "สวน", "answer": "park"},
+    { "question": "สวรรค์", "answer": "heaven"},
+    { "question": "สะพาน", "answer": "bridge"},
+    { "question": "สังคมนิยม", "answer": "socialism"},
+    { "question": "สัญญา", "answer": "contract"},
+    { "question": "สัญญาณ", "answer": "sign"},
+    { "question": "สัตว์", "answer": "animal"},
+    { "question": "สำนักงาน", "answer": "office"},
+    { "question": "สี", "answer": "paint"},
+    { "question": "สูท", "answer": "suit"},
+    { "question": "สโมสร", "answer": "club"},
+    { "question": "หญ้า", "answer": "grass"},
+    { "question": "หนังสือ", "answer": "book"},
+    { "question": "หนังสือพิมพ์", "answer": "newspaper"},
+    { "question": "หนู", "answer": "rat"},
+    { "question": "หน้า", "answer": "page"},
+    { "question": "หน้าจอ", "answer": "screen"},
+    { "question": "หน้าต่าง", "answer": "window"},
+    { "question": "หมวก", "answer": "hat"},
+    { "question": "หมา", "answer": "dog"},
+    { "question": "หมู", "answer": "pig"},
+    { "question": "หยดน้ำตา", "answer": "teardrop"},
+    { "question": "หลังคา", "answer": "roof"},
+    { "question": "หัว", "answer": "head"},
+    { "question": "หัวใจ", "answer": "heart"},
+    { "question": "หิมะ", "answer": "snow"},
+    { "question": "หุบเขา", "answer": "valley"},
+    { "question": "หู", "answer": "ear"},
+    { "question": "ห้อง", "answer": "room"},
+    { "question": "ห้องนอน", "answer": "bedroom"},
+    { "question": "ห้องสมุด", "answer": "library"},
+    { "question": "ห้องอาบน้ำ", "answer": "bathroom"},
+    { "question": "อพาร์ทเม้น", "answer": "apartment"},
+    { "question": "อากาศ", "answer": "air"},
+    { "question": "อาคาร", "answer": "building"},
+    { "question": "อิฐ", "answer": "brick"},
+    { "question": "อินเตอร์เน็ตไร้สาย", "answer": "wifi"},
+    { "question": "อินเทอร์เน็ต", "answer": "internet"},
+    { "question": "เกม", "answer": "game"},
+    { "question": "เกาะ", "answer": "island"},
+    { "question": "เก้าอี้", "answer": "chair"},
+    { "question": "เข็ม", "answer": "needle"},
+    { "question": "เข่า", "answer": "knee"},
+    { "question": "เครา", "answer": "beard"},
+    { "question": "เครือข่าย", "answer": "network"},
+    { "question": "เครื่องมือ", "answer": "tool"},
+    { "question": "เงิน", "answer": "money"},
+    { "question": "เชื้อชาติ", "answer": "ethnicity"},
+    { "question": "เตียง", "answer": "bed"},
+    { "question": "เทคโนโลยี", "answer": "technology"},
+    { "question": "เท้า", "answer": "foot"},
+    { "question": "เนคไท", "answer": "necktie"},
+    { "question": "เนินเขา", "answer": "hill"},
+    { "question": "เนื้อไม้", "answer": "wood"},
+    { "question": "เบา", "answer": "light"},
+    { "question": "เผด็จการ", "answer": "dictator"},
+    { "question": "เพดาน", "answer": "ceiling"},
+    { "question": "เพศ", "answer": "gender"},
+    { "question": "เพศสัมพันธ์", "answer": "sexual intercourse"},
+    { "question": "เมือง", "answer": "city"},
+    { "question": "เม้าส์", "answer": "mouse"},
+    { "question": "เลือด", "answer": "blood"},
+    { "question": "เล็บมือ", "answer": "fingernail"},
+    { "question": "เสียง", "answer": "sound"},
+    { "question": "เสียงพูด", "answer": "voice"},
+    { "question": "เสื้อกั๊ก", "answer": "vest"},
+    { "question": "เสื้อผ้า", "answer": "clothing"},
+    { "question": "เสื้อยืดคอกลม", "answer": "T-shirt"},
+    { "question": "เสื้อเชิ้ต", "answer": "shirt"},
+    { "question": "เสื้อโค้ท", "answer": "coat"},
+    { "question": "เหงื่อ", "answer": "sweat"},
+    { "question": "เหนือ", "answer": "north"},
+    { "question": "แกะ", "answer": "sheep"},
+    { "question": "แขน", "answer": "arm"},
+    { "question": "แต่งงาน", "answer": "marriage"},
+    { "question": "แผนที่", "answer": "map"},
+    { "question": "แพะ", "answer": "goat"},
+    { "question": "แฟน", "answer": "fan"},
+    { "question": "แมว", "answer": "cat"},
+    { "question": "แม่น้ำ", "answer": "river"},
+    { "question": "แล็ปท็อป", "answer": "laptop"},
+    { "question": "แหวน", "answer": "ring"},
+    { "question": "โคมไฟ", "answer": "lamp"},
+    { "question": "โจมตี", "answer": "attack"},
+    { "question": "โทรทัศน์", "answer": "television"},
+    { "question": "โทรศัพท์", "answer": "telephone"},
+    { "question": "โทรศัพท์มือถือ", "answer": "cell phone"},
+    { "question": "โบสถ์", "answer": "church"},
+    { "question": "โปรแกรมคอมพิวเตอร์", "answer": "computer program"},
+    { "question": "โรค", "answer": "disease"},
+    { "question": "โรงพยาบาล", "answer": "hospital"},
+    { "question": "โรงละคร", "answer": "theater"},
+    { "question": "โรงเรียน", "answer": "school"},
+    { "question": "โรงแรม", "answer": "hotel"},
+    { "question": "โลก", "answer": "Earth" },
+    { "question": "โลก", "answer": "world"},
+    { "question": "ใช่", "answer": "yes"},
+    { "question": "ใต้", "answer": "south"},
+    { "question": "ใบหน้า", "answer": "face"},
+    { "question": "ใบไม้", "answer": "leaf"},
+    { "question": "ได้รับบาดเจ็บ", "answer": "injury"},
+    { "question": "ไฟ", "answer": "fire"},
+    { "question": "ไม่", "answer": "no"},
+    { "question": "ไหล่", "answer": "shoulder"}
 ]
