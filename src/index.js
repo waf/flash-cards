@@ -36,7 +36,7 @@ class Application extends React.Component {
         };
     }
     componentDidMount() {
-        get("cards.json", (json => {
+        get("data/cards.json", (json => {
             var cards = json.map(data => new Card(data.question, data.answer));
             var {state} = this.algorithm.getInitialState(cards);
             var {card, state} = this.algorithm.currentCard(state);
