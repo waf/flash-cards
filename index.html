@@ -1,12 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" manifest="offline.appcache">
     <head>
         <meta charset="UTF-8">
         <title>Flash Cards</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui">
+        <meta name="mobile-web-app-capable" content="yes">
         <link rel="stylesheet" href="lib/material.min.css" type="text/css">
         <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kanit:300&subset=thai" type="text/css">
+        <link rel="apple-touch-icon-precomposed" sizes="152x152" href="img/icon-152.png">
+        <link rel="apple-touch-icon-precomposed" sizes="120x120" href="img/icon-120.png">
+        <link rel="icon" type="image/png" sizes="192x192" href="img/icon-192.png">
+        <link rel="manifest" href="/data/manifest.json">
         <script>
             window.onerror = function(str) { alert(str); }
         </script>

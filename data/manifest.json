@@ -1,0 +1,12 @@
+{
+    "short_name": "Thai Flash Cards",
+    "name": "Thai Flash Cards",
+    "icons": [
+        {
+            "src": "/img/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "display": "standalone"
+}
