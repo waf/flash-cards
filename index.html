@@ -11,10 +11,6 @@
             window.onerror = function(str) { alert(str); }
         </script>
         <style>
-            .card .content {
-                font-size: 48pt;
-                line-height: 48pt;
-            }
             .card {
                 text-align:center;
                 position:absolute;
@@ -29,38 +25,49 @@
                 cursor:pointer;
                 z-index:2;
             }
+            .card .content {
+                font-size: 48pt;
+                line-height: 48pt;
+            }
+            /* normally, card front is shown, card back is hidden... */
+            .card-front { display: block; }
+            .card-back { display:none; }
+            .flipped .card-front { display:none; }
+            .flipped .card-back { display:block; }
+            /* ...if the setting 'reversed mode' is on, do the opposite */
+            .reversed .card-front { display: none; }
+            .reversed .card-back { display:block; }
+            .reversed .flipped .card-front { display:block; }
+            .reversed .flipped .card-back { display:none; }
+
+            /* handle font settings */
             .modern .card-front {
                 font-family:'Kanit';
             }
             .traditional .card-front {
                 font-family:serif;
             }
-            .card-front { display: block; }
-            .card-back { display:none; }
-            .flipped .card-front { display:none; }
-            .flipped .card-back { display:block; }
+
+            /* feedback whether or not the answer was correct */
             .feedback {
-                position:absolute;
-                width:100%;
-                text-align:center;
+                margin-top:2em;
+                display:none;
             }
+            /* only show it when the card is flipped over */
+            .flipped .feedback {
+                display:block;
+            }
+
             .feedback label {
-                padding: 1em;
+                display:border-box;
+                width:50%;
+                display:block;
+                float:left;
                 cursor: pointer;
             }
             .feedback button {
-                margin:2em;
                 transform: scale(2);
-            }
-            .feedback label:first-child {
-            }
-            .feedback label:last-child {
-            }
-            .feedback label:first-child button {
-                margin-left:1em;
-            }
-            .feedback label:last-child button {
-                margin-right:1em;
+                margin:0 1em;
             }
             .win-message {
                 color: #3f51b5;

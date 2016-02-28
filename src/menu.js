@@ -16,17 +16,24 @@ class SideMenu extends React.Component {
     constructor(props) {
         super(props);
         this.handleFontChanged = this.handleFontChanged.bind(this);
+        this.handleReverseModeChanged = this.handleReverseModeChanged.bind(this);
     }
     handleFontChanged(e) {
         this.props.onSettingChanged({
             font: e.target.checked ? 'modern' : 'traditional'
         });
     }
+    handleReverseModeChanged(e) {
+        this.props.onSettingChanged({
+            reverseMode: e.target.checked ? 'reversed' : ''
+        });
+    }
     render() {
         return <Drawer title="Options">
             <Navigation>
                 <a href="">Restart Session</a>
-                <a><Switch id="switch2" onChange={this.handleFontChanged}>Modern Font</Switch></a>
+                <a><Switch onChange={this.handleFontChanged}>Modern Font</Switch></a>
+                <a><Switch onChange={this.handleReverseModeChanged}>Reverse Mode</Switch></a>
             </Navigation>
         </Drawer>
     }
