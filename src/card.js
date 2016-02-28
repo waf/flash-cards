@@ -43,12 +43,12 @@ export class CardView extends React.Component {
                     <div className="card-front content">
                         {this.props.card.question}
                     </div>
-                    <div className="card-back">
-                        <div className="content">{this.props.card.answer}</div>
-                        <div className="feedback">
-                            <label>Oops <IconButton name="mood_bad" onClick={this.onIncorrectAnswer} /></label>
-                            <label><IconButton name="mood" onClick={this.onCorrectAnswer} /> Got it!</label>
-                        </div>
+                    <div className="card-back content">
+                        {this.props.card.answer}
+                    </div>
+                    <div className="feedback">
+                        <label>Oops <IconButton name="mood_bad" onClick={this.onIncorrectAnswer} /></label>
+                        <label><IconButton name="mood" onClick={this.onCorrectAnswer} /> Got it!</label>
                     </div>
                 </div>
     }

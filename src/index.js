@@ -5,6 +5,7 @@ import ProgressBar from 'react-mdl/lib/ProgressBar';
 import {Card, CardView} from './card';
 import {TopMenu, SideMenu} from './menu';
 import SpacedRepetitionAlgorithm from './spacedRepetitionAlgorithm';
+import classnames from 'classnames';
 
 function get(url, callback) {
     var xmlhttp = new XMLHttpRequest();
@@ -67,6 +68,10 @@ class Application extends React.Component {
             this.setState({
                 font: settings.font
             });
+        } else if ('reverseMode' in settings) {
+            this.setState({
+                reverseMode: settings.reverseMode
+            });
         }
     }
     render() {
@@ -76,7 +81,7 @@ class Application extends React.Component {
                     return <div />;
                 }
                 return (
-                    <Layout className={this.state.font}>
+                    <Layout className={classnames(this.state.font, this.state.reverseMode)}>
                         <ProgressBar progress={this.state.progress} />
                         <TopMenu card={this.state.card} />
                         <SideMenu onSettingChanged={this.onSettingChanged} />
