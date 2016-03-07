@@ -72,6 +72,10 @@ class Application extends React.Component {
             this.setState({
                 reverseMode: settings.reverseMode
             });
+        } else if ('darkMode' in settings) {
+            this.setState({
+                darkMode: settings.darkMode
+            });
         }
     }
     render() {
@@ -81,7 +85,10 @@ class Application extends React.Component {
                     return <div />;
                 }
                 return (
-                    <Layout className={classnames(this.state.font, this.state.reverseMode)}>
+                    <Layout className={classnames(
+                                this.state.font,
+                                this.state.reverseMode,
+                                this.state.darkMode)}>
                         <ProgressBar progress={this.state.progress} />
                         <TopMenu card={this.state.card} />
                         <SideMenu onSettingChanged={this.onSettingChanged} />
