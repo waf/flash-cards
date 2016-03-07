@@ -12,28 +12,40 @@ var TopMenu = ({card}) => {
     </Header>
 };
 
+class Setting extends React.Component {
+    constructor(props) {
+        super(props);
+        this.handleChange = this.handleChange.bind(this);
+    }
+    handleChange(e) {
+        var settingEvent = {};
+        settingEvent[this.props.setting] = e.target.checked ?
+            this.props.onState :
+            this.props.offState;
+
+        this.props.onChange(settingEvent);
+    }
+    render() {
+        return <a className="mdl-navigation__link">
+                    <Switch onChange={this.handleChange}>{this.props.label}</Switch>
+               </a>;
+    }
+}
+
 class SideMenu extends React.Component {
     constructor(props) {
         super(props);
-        this.handleFontChanged = this.handleFontChanged.bind(this);
-        this.handleReverseModeChanged = this.handleReverseModeChanged.bind(this);
-    }
-    handleFontChanged(e) {
-        this.props.onSettingChanged({
-            font: e.target.checked ? 'modern' : 'traditional'
-        });
-    }
-    handleReverseModeChanged(e) {
-        this.props.onSettingChanged({
-            reverseMode: e.target.checked ? 'reversed' : ''
-        });
     }
     render() {
         return <Drawer title="Options">
             <Navigation>
                 <a href="">Restart Session</a>
-                <a><Switch onChange={this.handleFontChanged}>Modern Font</Switch></a>
-                <a><Switch onChange={this.handleReverseModeChanged}>Reverse Mode</Switch></a>
+                <Setting onChange={this.props.onSettingChanged} label="Modern Font" setting="font"
+                         onState="modern" offState="traditional" />
+                <Setting onChange={this.props.onSettingChanged} label="Flip Cards" setting="reverseMode"
+                         onState="reversed" offState="" />
+                <Setting onChange={this.props.onSettingChanged} label="Dark Mode" setting="darkMode"
+                         onState="dark-mode" offState="" />
             </Navigation>
         </Drawer>
     }
