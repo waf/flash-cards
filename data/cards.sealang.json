@@ -216,7 +216,7 @@
         "english":"That, the one mentioned."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 02",
         "thai": "คนนั้น",
         "english":"That person."
@@ -306,7 +306,7 @@
         "english":"To be some place."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 03",
         "thai": "อยู่ที่ไหน",
         "english":"Where is it?"
@@ -336,7 +336,7 @@
         "english":"Very, a lot."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 03",
         "thai": "ขอบคุณมาก",
         "english":"Thanks a lot."
@@ -366,7 +366,7 @@
         "english":"Polite particle, confirmative."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 03",
         "thai": "ฮื่ม",
         "english":"A confirmative. Yes."
@@ -510,19 +510,19 @@
         "english":"To be straight."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 04",
         "thai": "ตรงไป",
         "english":"To go straight."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 04",
         "thai": "ตรงไปข้างหน้า",
         "english":"To go straight ahead."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 04",
         "thai": "ไม่...เลย",
         "english":"Not...at all."
@@ -558,7 +558,7 @@
         "english":"Erawan."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 06",
         "thai": "โรงแรมเอราวัณ",
         "english":"The Erawan Hotel (a hotel in Bangkok)."
@@ -624,7 +624,7 @@
         "english":"Intersection (four forks)."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 06",
         "thai": "ถึงสี่แยก",
         "english":"To arrive at the intersection."
@@ -636,13 +636,13 @@
         "english":"To turn (in line of motion)."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 06",
         "thai": "แล้วเลี้ยว",
         "english":"Then turn."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 06",
         "thai": "แล้วเลี้ยวขวา",
         "english":"Then turn right."
@@ -846,7 +846,7 @@
         "english":"A particle requesting the listener to give some indication that he has heard. 'Do you follow me?', 'Get it?'"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 07",
         "thai": "หรือ, รึ",
         "english":"Or."
@@ -990,7 +990,7 @@
         "english":"England, English."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 09",
         "thai": "เพลินจิต",
         "english":"Ploenchit (a road in Bangkok)."
@@ -1110,13 +1110,13 @@
         "english":"House, home."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 11",
         "thai": "ราชดำริ",
         "english":"Ratchadamri (a road in Bangkok)."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 11",
         "thai": "ศาลาแดง",
         "english":"Saladaeng (the intersection near Lumpini Park)."
@@ -1302,7 +1302,7 @@
         "english":"Soi, lane."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 12",
         "thai": "สุขุมวิท",
         "english":"Sukhumvit (a road in Bangkok)."
@@ -1644,13 +1644,13 @@
         "english":"Cigarette."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 14",
         "thai": "ค.ศ.",
         "english":"The Christian era (an abbreviation of khrItthasakkaraatl."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 14",
         "thai": "พ.ศ.",
         "english":"The Buddhist era (an abbreviation of phatthasakl-.araat)."
@@ -1932,7 +1932,7 @@
         "english":"To open, turn on."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 17",
         "thai": "พหลโยธิน",
         "english":"Phaholyothin (a road in Bangkok)."
@@ -2010,7 +2010,7 @@
         "english":"Kind, sort,variety."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 18",
         "thai": "อย่างไร, ยังไร, ยังไง, ไง",
         "english":"In what way? How?"
@@ -2028,7 +2028,7 @@
         "english":"To listen to."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 18",
         "thai": "เพิ่ง, พึ่ง",
         "english":"Just now, just a minute ago."
@@ -2226,7 +2226,7 @@
         "english":"Khon Kaen (a province of Thailand)."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 21",
         "thai": "เป๊ปซี่",
         "english":"Pepsi Cola."
@@ -2340,7 +2340,7 @@
         "english":"To follow."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 22",
         "thai": "ถ้ายังงั้น",
         "english":"In that case, if that's how it is."
@@ -2616,7 +2616,7 @@
         "english":"Midday, day time."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 24",
         "thai": "มันทอด",
         "english":"Fried potatoes, potato chips."
@@ -2670,7 +2670,7 @@
         "english":"Soup."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 24",
         "thai": "โทร.",
         "english":"Short form of thoorasap."
@@ -2742,7 +2742,7 @@
         "english":"Both."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 25",
         "thai": "เบคอน",
         "english":"Bacon."
@@ -2946,7 +2946,7 @@
         "english":"To be beyond."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 27",
         "thai": "เลยไป",
         "english":"To go beyond, to go past."
@@ -3006,7 +3006,7 @@
         "english":"Cupboard, closet."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 27",
         "thai": "ตู้ยามตำรวจ",
         "english":"A police box."
@@ -3030,7 +3030,7 @@
         "english":"Litchi, lichee nuts."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 27",
         "thai": "ผิงหนัง",
         "english":"Skin."
@@ -3150,7 +3150,7 @@
         "english":"A hot, sour soup."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 27",
         "thai": "เบคอน",
         "english":"Bacon."
@@ -3258,13 +3258,13 @@
         "english":"Rope, string."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 28",
         "thai": "กิโล (กรัม)",
         "english":"A kilogram (2.205 pounds)."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 28",
         "thai": "กิโล (เมตร)",
         "english":"A kilometer (.621 miles)."
@@ -3516,7 +3516,7 @@
         "english":"Don't (the negative imperative)."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 30",
         "thai": "ยูซอม",
         "english":"USOM (United States Operation Mission)."
@@ -3558,7 +3558,7 @@
         "english":"Shoes."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 31",
         "thai": "สัก, ซัก",
         "english":"At least, or so, anyway, and may-be more later."
@@ -3696,7 +3696,7 @@
         "english":"From, to separate from."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 32",
         "thai": "ฮ่ะ (ฮะ)",
         "english":"Short form of kha (kha)."
@@ -3708,13 +3708,13 @@
         "english":"As soon as."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 32",
         "thai": "สปอร์ตคลับ",
         "english":"Sports Club."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 32",
         "thai": "สวนลุมฯ",
         "english":"Lumpini Park (a park in Bangkok)."
@@ -3954,7 +3954,7 @@
         "english":"Roof."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 34",
         "thai": "เหลีกเลี่ยง",
         "english":"To avoid."
@@ -4182,7 +4182,7 @@
         "english":"Afterwards, later."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 37",
         "thai": "สุริวงศ์",
         "english":"Suriwong (a road in Bangkok)."
@@ -4260,7 +4260,7 @@
         "english":"Underpants."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 37",
         "thai": "เสื้อใน",
         "english":"An undershirt."
@@ -4476,7 +4476,7 @@
         "english":"A story, a matter, classifier for stories or happenings."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 39",
         "thai": "ยูซิส",
         "english":"USIS, (United States Information Service.)."
@@ -4524,7 +4524,7 @@
         "english":"To be soft, tender, young, weak."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 41",
         "thai": "เจริญกรุง",
         "english":"New Road (a road in Bangkok)."
@@ -4644,7 +4644,7 @@
         "english":"Silk."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 41",
         "thai": "ไหมไทย",
         "english":"Thai silk."
@@ -4662,7 +4662,7 @@
         "english":"To dry-clean."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 41",
         "thai": "ซักน้ำ",
         "english":"To wash in water, to rinse."
@@ -4752,31 +4752,31 @@
         "english":"The Monument of Democracy."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 42",
         "thai": "บางลำพู",
         "english":"An area in Bangkok."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 42",
         "thai": "หลังสวน",
         "english":"A Soi between Wireless and Rajdamri Roads."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 42",
         "thai": "ร่วมฤดี",
         "english":"A Soi behind Wireless Road."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 42",
         "thai": "สะพานควาย",
         "english":"Saphan Khwai (an area in Bangkok)."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 42",
         "thai": "ศรีอยุธยา",
         "english":"Si Ayuthaya (a road in Bangkok)."
@@ -4842,7 +4842,7 @@
         "english":"Approximately."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 42",
         "thai": "เสื้อฮาวาย",
         "english":"A sport shirt."
@@ -4908,13 +4908,13 @@
         "english":"A fuse."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 43",
         "thai": "สตาร์ท",
         "english":"To start a car."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 43",
         "thai": "กระบอกฉีดยุง",
         "english":"A flit gun."
@@ -4932,7 +4932,7 @@
         "english":"Broom."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 43",
         "thai": "ผ้าเช็ดฝุ่น",
         "english":"A dust cloth."
@@ -4962,7 +4962,7 @@
         "english":"A rug."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 43",
         "thai": "พรมปูพื้น",
         "english":"A rug."
@@ -4998,7 +4998,7 @@
         "english":"An electric light bulb.		"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 43",
         "thai": "ไหนดูซิ",
         "english":"Let me see it.		"
@@ -5094,7 +5094,7 @@
         "english":"This preceding moment."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 44",
         "thai": "เสื้อสเวตเตอร์",
         "english":"A sweater."
@@ -5106,7 +5106,7 @@
         "english":"A coat."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 44",
         "thai": "เสื้อสเวตเตอร์",
         "english":"A sweater."
@@ -5142,7 +5142,7 @@
         "english":"Pillow case."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 44",
         "thai": "ตะกร้าผง",
         "english":"Waste basket."
@@ -5676,7 +5676,7 @@
         "english":"Durian."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 47",
         "thai": "อพาร์ทเมนท์",
         "english":"Apartment."
@@ -5694,7 +5694,7 @@
         "english":"By means of, with, by."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 47",
         "thai": "การ...",
         "english":"The action of..."
@@ -5808,7 +5808,7 @@
         "english":"Sound."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 48",
         "thai": "เสียงสูงต่ำ",
         "english":"Tones."
@@ -5976,7 +5976,7 @@
         "english":"Pumpkin."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 49",
         "thai": "หัวผักกาดเหลือง",
         "english":"Carrot."
@@ -6078,7 +6078,7 @@
         "english":"A fork."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 49",
         "thai": "น่ะสิ",
         "english":"A particle used to emphasize the obviousness of the information. 'Of course.'"
@@ -6156,13 +6156,13 @@
         "english":"To be as follows or defined, namely."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 50",
         "thai": "มัก (จะ)",
         "english":"Regularly, habitually, usually."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 50",
         "thai": "ไม่...นัก",
         "english":"Not very"
@@ -6180,13 +6180,13 @@
         "english":"So, very."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 50",
         "thai": "ไม่...นัก",
         "english":"Not very..."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 50",
         "thai": "รับส่ง",
         "english":"To pick up and deliver, to take passengers."
@@ -6438,7 +6438,7 @@
         "english":"Hospital."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 52",
         "thai": "กระดานประกาศ",
         "english":"A bulletin board."
@@ -6468,7 +6468,7 @@
         "english":"To announce."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 52",
         "thai": "กระดานประกาศ",
         "english":"Bulletin board."
@@ -6504,7 +6504,7 @@
         "english":"Just right."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 52",
         "thai": "กล้องสูบยา",
         "english":"A tobacco pipe."
@@ -6540,7 +6540,7 @@
         "english":"An imperative intended for the hearer's good.		"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 52",
         "thai": "ยกข้าว",
         "english":"To bring on the food.		"
@@ -6558,7 +6558,7 @@
         "english":"First rank.		"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 53",
         "thai": "ดร.",
         "english":"Doctor (Ph.D., not medical).		"
@@ -6696,7 +6696,7 @@
         "english":"Science."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 53",
         "thai": "มร.",
         "english":"Mr."
@@ -6864,7 +6864,7 @@
         "english":"To shift, slide, or move in position, time, or grade."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 54",
         "thai": "เพื่อ (จะ)",
         "english":"in order to."
@@ -6984,7 +6984,7 @@
         "english":"To combine, include."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 55",
         "thai": "ส่วน...นั้น",
         "english":"As for..."
@@ -6996,7 +6996,7 @@
         "english":"Throughout."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 55",
         "thai": "ทั้ง...และ",
         "english":"Both...and."
@@ -7074,7 +7074,7 @@
         "english":"Interior (as in the Minis try of Interior)."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 56",
         "thai": "พัฒนาการแห่งชาติ",
         "english":"National Development."
@@ -7098,7 +7098,7 @@
         "english":"Education. [Inferred from Ministry name]"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 56",
         "thai": "ต่้างประเทศ",
         "english":"Foreign countries."
@@ -7176,7 +7176,7 @@
         "english":"To renew, to continue on the age of something."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 56",
         "thai": "ตรงข้ามกับ",
         "english":"Right across from, just opposite to."
@@ -7236,19 +7236,19 @@
         "english":"To win."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 56",
         "thai": "ซักที",
         "english":"Even once."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 56",
         "thai": "ไม่...ซักที",
         "english":"Never."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 56",
         "thai": "ไม่...ซักที",
         "english":"Never."
@@ -7308,7 +7308,7 @@
         "english":"Austria."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 57B",
         "thai": "เบลเยียม",
         "english":"Belgium."
@@ -7428,13 +7428,13 @@
         "english":"Sweden."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 57B",
         "thai": "สวิสเซอร์แลนด์",
         "english":"Switzerland."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 57B",
         "thai": "ซีลอน",
         "english":"Ceylon."
@@ -7494,7 +7494,7 @@
         "english":"To add to, fill."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 58C",
         "thai": "ถอดล้อ",
         "english":"To take off a wheel."
@@ -7524,7 +7524,7 @@
         "english":"A bar (place that sells drinks)."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 58C",
         "thai": "โบว์ลิ่ง",
         "english":"Bowling."
@@ -7650,13 +7650,13 @@
         "english":"A particle used to emphasize the finality of the information."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 59",
         "thai": "อุบล (ราชธานี)",
         "english":"Ubon Ratchathani (a province of Thailand)."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 59",
         "thai": "อุดร (ธานี)",
         "english":"Udon Thani (a province of Thailand)."
@@ -7692,7 +7692,7 @@
         "english":"Phitsanulok (a province of Thailand)."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 59",
         "thai": "(พระนครศรี) อยุธยา",
         "english":"Phra Nakhon Si Ayutthaya (a province of Thailand)."
@@ -7716,7 +7716,7 @@
         "english":"Prachin Buri (a province of Thailand)."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 59",
         "thai": "ประจวบ (คีรีขันธ์)",
         "english":"Prachuap Khiri Khan (a province of Thailand)."
@@ -7740,7 +7740,7 @@
         "english":"Rayong (a province of Thailand)."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 59",
         "thai": "ร้องเอ็ด",
         "english":"Roi Et (a province of Thailand)."
@@ -7812,7 +7812,7 @@
         "english":"Suphan Buri (a province of Thailand)."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 59",
         "thai": "สุราษฎร์ (ธานี)",
         "english":"Surat Thani (a province of Thailand)."
@@ -7866,7 +7866,7 @@
         "english":"To be left over, remaining."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 59",
         "thai": "หม้อแบตเตอรี่",
         "english":"A car battery."
@@ -7926,7 +7926,7 @@
         "english":"A living room set."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"AUA Reader AUA Chapter 60",
         "thai": "ดีพาร์ทเมนท์สโตร์",
         "english":"Department store."
@@ -8095,55 +8095,55 @@
     },
     {
         "rank":"1",
-        "source":"BYKI ADJECTIVE/STATIVE VERBS",
+        "source":"BYKI ADJECTIVE STATIVE VERBS",
         "thai": "กว่า",
         "english":"er/more than/than"
     },
     {
         "rank":"2",
-        "source":"BYKI ADJECTIVE/STATIVE VERBS",
+        "source":"BYKI ADJECTIVE STATIVE VERBS",
         "thai": "ง่าย",
         "english":"easy"
     },
     {
         "rank":"2",
-        "source":"BYKI ADJECTIVE/STATIVE VERBS",
+        "source":"BYKI ADJECTIVE STATIVE VERBS",
         "thai": "ยาก",
         "english":"difficult"
     },
     {
         "rank":"5",
-        "source":"BYKI ADJECTIVE/STATIVE VERBS",
+        "source":"BYKI ADJECTIVE STATIVE VERBS",
         "thai": "สกปรก",
         "english":"dirty"
     },
     {
         "rank":"3",
-        "source":"BYKI ADJECTIVE/STATIVE VERBS",
+        "source":"BYKI ADJECTIVE STATIVE VERBS",
         "thai": "สะอาด",
         "english":"clean"
     },
     {
         "rank":"2",
-        "source":"BYKI ADJECTIVE/STATIVE VERBS",
+        "source":"BYKI ADJECTIVE STATIVE VERBS",
         "thai": "เล็ก",
         "english":"small"
     },
     {
         "rank":"2",
-        "source":"BYKI ADJECTIVE/STATIVE VERBS",
+        "source":"BYKI ADJECTIVE STATIVE VERBS",
         "thai": "ใกล้",
         "english":"near"
     },
     {
         "rank":"1",
-        "source":"BYKI ADJECTIVE/STATIVE VERBS",
+        "source":"BYKI ADJECTIVE STATIVE VERBS",
         "thai": "ใหญ่",
         "english":"big"
     },
     {
         "rank":"2",
-        "source":"BYKI ADJECTIVE/STATIVE VERBS",
+        "source":"BYKI ADJECTIVE STATIVE VERBS",
         "thai": "ไกล",
         "english":"far"
     },
@@ -8334,7 +8334,7 @@
         "english":"year or lent period"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI BUDDHISM",
         "thai": "พระสงฆ์ ฺ",
         "english":"Buddhist monk"
@@ -8346,13 +8346,13 @@
         "english":"soul, life after death"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI BUDDHISM",
         "thai": "ศิล",
         "english":"precept, commandment"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI BUDDHISM",
         "thai": "ศิลธรรม",
         "english":"morality, morals"
@@ -8364,7 +8364,7 @@
         "english":"to chant a prayer"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI BUDDHISM",
         "thai": "สวรรค ",
         "english":"heaven"
@@ -8604,7 +8604,7 @@
         "english":"silver color"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI COLORS",
         "thai": "สีเนื้อ",
         "english":"beige"
@@ -8676,7 +8676,7 @@
         "english":"young"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI COMPARISONS; ADJECTIVES",
         "thai": "อายุมาก/ แก่",
         "english":"old"
@@ -8700,7 +8700,7 @@
         "english":"stupid"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI COMPARISONS; ADJECTIVES",
         "thai": "ใหญ่ / โต",
         "english":"big"
@@ -8712,7 +8712,7 @@
         "english":"to petition"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI CRIME 1",
         "thai": "ดคี",
         "english":"case"
@@ -8946,7 +8946,7 @@
         "english":"to turn"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI DIRECTION",
         "thai": "ตรงไป",
         "english":"straight ahead"
@@ -9156,7 +9156,7 @@
         "english":"exchange rate"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI ELECTION",
         "thai": "การซื้อเสียง",
         "english":"vote buying"
@@ -9276,7 +9276,7 @@
         "english":"fire"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI EMERGENCIES AND NATURAL DISASTERS",
         "thai": "เครื่องบินตก",
         "english":"plane crash"
@@ -9294,7 +9294,7 @@
         "english":"blizzard"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI EMERGENCIES AND NATURAL DISASTERS",
         "thai": "ภูเขาไฟระเบิด",
         "english":"volcanic eruption"
@@ -9312,13 +9312,13 @@
         "english":"typhoon"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI EMERGENCIES AND NATURAL DISASTERS",
         "thai": "ความแห้งแล้ง",
         "english":"drought"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI EMERGENCIES AND NATURAL DISASTERS",
         "thai": "โคลนถล่ม",
         "english":"mudslide"
@@ -9480,7 +9480,7 @@
         "english":"or not"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI EVERYDAY CONVERSATION",
         "thai": "สะบายดี",
         "english":"fine"
@@ -9516,7 +9516,7 @@
         "english":"particle"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI FEELINGS",
         "thai": "กลัว/ตื่นเต้น",
         "english":"nervous"
@@ -9534,7 +9534,7 @@
         "english":"disgusted"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI FEELINGS",
         "thai": "มีความรัก",
         "english":"in love"
@@ -9546,7 +9546,7 @@
         "english":"hot"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI FEELINGS",
         "thai": "วิตก กังวล",
         "english":"worried"
@@ -9558,7 +9558,7 @@
         "english":"lonely"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI FEELINGS",
         "thai": "สงบ.	เงียบ",
         "english":"calm"
@@ -9582,13 +9582,13 @@
         "english":"cold"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI FEELINGS",
         "thai": "หิว(2)",
         "english":"hungry"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI FEELINGS",
         "thai": "หิว/กระหาย(น้ำ)",
         "english":"thirsty"
@@ -9606,7 +9606,7 @@
         "english":"in pain"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI FEELINGS",
         "thai": "เจ็บปวดใจ/เสียใจ",
         "english":"hurt"
@@ -9624,7 +9624,7 @@
         "english":"sick"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI FEELINGS",
         "thai": "ไม่สะดวกสบาย / อึดอัด",
         "english":"uncomfortable"
@@ -9846,7 +9846,7 @@
         "english":"fish sauce"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI FOOD",
         "thai": "พริกไ ทย",
         "english":"pepper"
@@ -10134,7 +10134,7 @@
         "english":"to condemn"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI INTERNATIONAL RELATIONS",
         "thai": "ประณีประนอม",
         "english":"to compromise"
@@ -10158,13 +10158,13 @@
         "english":"measures"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI INTERNATIONAL RELATIONS",
         "thai": "สงครามโลกครั้งที่ ๑",
         "english":"WWI"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI INTERNATIONAL RELATIONS",
         "thai": "สงครามโลกครั้งที่ ๒",
         "english":"WWII"
@@ -10176,13 +10176,13 @@
         "english":"treaty"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI INTERNATIONAL RELATIONS",
         "thai": "ส ันติภาพ",
         "english":"peace"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI INTERNATIONAL RELATIONS",
         "thai": "หลักการณ์",
         "english":"principle"
@@ -10218,7 +10218,7 @@
         "english":"free world"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI JOB APPLICATION",
         "thai": "ได้รับพิจารณาเป็นพิเศษ",
         "english":"will be given special consideration"
@@ -10254,13 +10254,13 @@
         "english":"degree"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI JOB APPLICATION",
         "thai": "ผ่านการเกณฑ์ทหาร",
         "english":"completed military obligation"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI JOB APPLICATION",
         "thai": "ฝ่ายบุคคล",
         "english":"personnel"
@@ -10290,7 +10290,7 @@
         "english":"educational qualification"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI JOB APPLICATION",
         "thai": "สนใจติดต่อได้ที่",
         "english":"if interested, contact at …"
@@ -10338,67 +10338,67 @@
         "english":"application form"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI LONG VOWELS",
         "thai": "- ู",
         "english":"/uu/"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI LONG VOWELS",
         "thai": "_อ",
         "english":"/or/"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI LONG VOWELS",
         "thai": "_ ัว , _ว_",
         "english":"/ua/"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI LONG VOWELS",
         "thai": "_า",
         "english":"/aa/"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI LONG VOWELS",
         "thai": "_ ี",
         "english":"/ii/"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI LONG VOWELS",
         "thai": "_ ื",
         "english":"/yy/"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI LONG VOWELS",
         "thai": "เ_",
         "english":"/ee/"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI LONG VOWELS",
         "thai": "เ_อ , (เ_ ิ , เ_ย)",
         "english":"/(s)ir/"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI LONG VOWELS",
         "thai": "เ_ ีย",
         "english":"/ia/"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI LONG VOWELS",
         "thai": "เ _ ือ",
         "english":"/ya/"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI LONG VOWELS",
         "thai": "แ_",
         "english":"/air/"
@@ -10572,7 +10572,7 @@
         "english":"to bring,take along"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI MAANII READERS L.1,2,3",
         "thai": "พามา",
         "english":"bring along"
@@ -10698,7 +10698,7 @@
         "english":"regiment, directorate"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI MILITARY",
         "thai": "กรมยุทธการ",
         "english":"Directorate of Operations"
@@ -10710,7 +10710,7 @@
         "english":"Army"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI MILITARY",
         "thai": "กองทัพภาคที่ 1-4",
         "english":"1st- 4th Army Area"
@@ -10740,7 +10740,7 @@
         "english":"battalion"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI MILITARY",
         "thai": "กองพันผสม",
         "english":"regiment"
@@ -10764,7 +10764,7 @@
         "english":"ranger"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI MILITARY",
         "thai": "ผู้บัญชาทหารสูงสุด",
         "english":"Supreme Commander"
@@ -10782,7 +10782,7 @@
         "english":"military police"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI MILITARY",
         "thai": "หน่วยบัญชาการสงครามพิเศษ",
         "english":"Army Special Warfare"
@@ -10806,7 +10806,7 @@
         "english":"to recruit, draft"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI MILITARY",
         "thai": "แม่ทัพภาค",
         "english":"Commanding General"
@@ -11022,7 +11022,7 @@
         "english":"write"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI MORE VERBS",
         "thai": "คิด (ว่า)",
         "english":"think that....."
@@ -11136,7 +11136,7 @@
         "english":"marijuana"
     },
     {
-        "rank":"&nbsnbsp;",
+        "rank":"1000",
         "source":"BYKI NARCOTICS",
         "thai": "การฝอกเงิน",
         "english":"money laundering"
@@ -11166,13 +11166,13 @@
         "english":"to hide"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI NARCOTICS",
         "thai": "ตัวการใหญ่",
         "english":"ringleader"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI NARCOTICS",
         "thai": "ตำรวจตระเวณชายแดน",
         "english":"Border Patrol Police (BPP)"
@@ -11220,7 +11220,7 @@
         "english":"opium"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI NARCOTICS",
         "thai": "ฝิ่นดิบ",
         "english":"raw opium"
@@ -11256,7 +11256,7 @@
         "english":"informant"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI NARCOTICS",
         "thai": "สารระเหย",
         "english":"inhalants"
@@ -11298,7 +11298,7 @@
         "english":"man"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI PEOPLE, FAMILY, RELATIONS",
         "thai": "พ่อ-แม่",
         "english":"parents"
@@ -11538,7 +11538,7 @@
         "english":"signature"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI PERSONAL INFORMATION",
         "thai": "วันที่เกิด",
         "english":"birth date"
@@ -11556,13 +11556,13 @@
         "english":"female"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI PERSONAL INFORMATION",
         "thai": "หมายเลขบ้าน",
         "english":"home number"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI PERSONAL INFORMATION",
         "thai": "หมายเลขโทรศัพท์",
         "english":"telephone number"
@@ -11682,7 +11682,7 @@
         "english":"House of Representatives"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI POLITICS 1",
         "thai": "สมาชิกสภาผู้แทนราษฎร (ส.ส.)",
         "english":"representatives"
@@ -11730,7 +11730,7 @@
         "english":"debate"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI POLITICS 2",
         "thai": "การอภิปรายไม่ไว้วางใจ",
         "english":"non-confidence debate"
@@ -11814,7 +11814,7 @@
         "english":"to reform"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI POLITICS 2",
         "thai": "ปัญญาชน pan-jaa-chon",
         "english":"intellectual"
@@ -11826,13 +11826,13 @@
         "english":"image"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI POLITICS 2",
         "thai": "ข ้าราชการ",
         "english":"government official"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI POLITICS 2",
         "thai": "ร้ฐประหาร",
         "english":"coup d’etat"
@@ -11898,7 +11898,7 @@
         "english":"overly sympathetic"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI PREFIX ",
         "thai": "ขี้โรค",
         "english":"sickly, unhealthy"
@@ -11994,13 +11994,13 @@
         "english":"outside"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI PREPOSITION OF LOCATION",
         "thai": "ข้างข้าง",
         "english":"beside"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI PREPOSITION OF LOCATION",
         "thai": "ตรงข้ามกับ",
         "english":"opposite to"
@@ -12018,19 +12018,19 @@
         "english":"far"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI PREPOSITION OF LOCATION",
         "thai": "ใกล้กับ",
         "english":"close to"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI PREPOSITION OF LOCATION",
         "thai": "ไกลจาก",
         "english":"far from"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI PREPOSITION OF LOCATION",
         "thai": "เยื้องกับ",
         "english":"diagonally across from"
@@ -12072,7 +12072,7 @@
         "english":"By air"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI READING VOCABULARY",
         "thai": "กองกำลังผสม",
         "english":"Coalition forces"
@@ -12090,13 +12090,13 @@
         "english":"Casualty / death"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI READING VOCABULARY",
         "thai": "ครั้งที่สอง",
         "english":"Second time"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI READING VOCABULARY",
         "thai": "รอบสัปดาห์",
         "english":"The week"
@@ -12114,79 +12114,79 @@
         "english":"A suspect"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI READING VOCABULARY",
         "thai": "กลุ่มอัล-กออิดะห",
         "english":"Alqa-ida"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI SHORT VOWELS",
         "thai": "- ุ",
         "english":"/u/"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI SHORT VOWELS",
         "thai": "_ ะ , _ ั",
         "english":"/a/"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI SHORT VOWELS",
         "thai": "_ ัว ะ",
         "english":"/ua/"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI SHORT VOWELS",
         "thai": "_ ิ",
         "english":"/i/"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI SHORT VOWELS",
         "thai": "_ ึ",
         "english":"/y/"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI SHORT VOWELS",
         "thai": "เ_อะ",
         "english":"/(s)ir/"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI SHORT VOWELS",
         "thai": "เ_ะ",
         "english":"/e/"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI SHORT VOWELS",
         "thai": "เ_าะ",
         "english":"/or/"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI SHORT VOWELS",
         "thai": "เ_ ียะ",
         "english":"/ia/"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI SHORT VOWELS",
         "thai": "เ_ ือะ",
         "english":"/ya/"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI SHORT VOWELS",
         "thai": "แ_ะ",
         "english":"/ae/ (cat)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI SHORT VOWELS",
         "thai": "โ_ะ",
         "english":"/o/"
@@ -12354,7 +12354,7 @@
         "english":"consulate"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI SOME IMPORTANT PLACES",
         "thai": "คลินิค",
         "english":"clinic"
@@ -12606,7 +12606,7 @@
         "english":"ammunition"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI TERRORISM",
         "thai": "กลุ่มหัวรุนแรง",
         "english":"extremist"
@@ -12630,7 +12630,7 @@
         "english":"kidnap"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI TERRORISM",
         "thai": "การสะกดรอย",
         "english":"surveillance"
@@ -12648,13 +12648,13 @@
         "english":"belief"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI TERRORISM",
         "thai": "ค่ายฝึก",
         "english":"training camp"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI TERRORISM",
         "thai": "ค่า ไถ่",
         "english":"ransom"
@@ -12678,7 +12678,7 @@
         "english":"to hijack, to hold up"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI TERRORISM",
         "thai": "ชื่อปลอม",
         "english":"pseudonym"
@@ -12690,7 +12690,7 @@
         "english":"hostage"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI TERRORISM",
         "thai": "บ้านลับ",
         "english":"cover facility"
@@ -12732,7 +12732,7 @@
         "english":"organizer"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI TERRORISM",
         "thai": "พวกเคร่งศาสนา",
         "english":"fundamentalist"
@@ -12804,7 +12804,7 @@
         "english":"doctrine"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI TERRORISM",
         "thai": "สังหารหมู่",
         "english":"massacre"
@@ -12852,7 +12852,7 @@
         "english":"victim"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI TERRORISM",
         "thai": "เ ครื่องดักฟัง",
         "english":"eavesdrops"
@@ -13038,7 +13038,7 @@
         "english":"not so....."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI LESSON 6",
         "thai": "ไม่......เลย",
         "english":"not.........at all"
@@ -13056,13 +13056,13 @@
         "english":"regularly"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI LESSON 6",
         "thai": "บ่อยๆ /บ่อย",
         "english":"often"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI LESSON 6",
         "thai": "พบ/เจอ",
         "english":"to meet"
@@ -13080,19 +13080,19 @@
         "english":"sub-way"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI LESSON 6",
         "thai": "ขอสายกับ",
         "english":"May I speak with....."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI LESSON 7",
         "thai": "เป็น/ได้",
         "english":"can"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI LESSON 7",
         "thai": "ว่ายน้ำ/ว่าย",
         "english":"to swim"
@@ -13104,13 +13104,13 @@
         "english":"memorize"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI LESSON 7",
         "thai": "จำไม่ได้",
         "english":"can’t remember"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI LESSON 7",
         "thai": "(มอง)เห็น",
         "english":"to see, can see"
@@ -13128,7 +13128,7 @@
         "english":"finish"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI LESSON 7",
         "thai": "ง่วง/ง่วงนอน",
         "english":"sleepy"
@@ -13344,7 +13344,7 @@
         "english":"most"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI LESSON 10",
         "thai": "ใหญ่ / โต",
         "english":"big"
@@ -13374,7 +13374,7 @@
         "english":"much, many"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI LESSON 10",
         "thai": "อายุมาก/ แก่",
         "english":"old"
@@ -13422,157 +13422,157 @@
         "english":"dark"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS",
         "thai": "๑",
         "english":"one"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS",
         "thai": "๑๐",
         "english":"ten"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS",
         "thai": "๑๐๐",
         "english":"one hundred"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS",
         "thai": "๑๑",
         "english":"eleven"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS",
         "thai": "๒",
         "english":"two"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS",
         "thai": "๒๑",
         "english":"twenty one"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS",
         "thai": "๓",
         "english":"three"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS",
         "thai": "๓๑",
         "english":"thirty one"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS",
         "thai": "๔",
         "english":"four"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS",
         "thai": "๔๑",
         "english":"forty one"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS",
         "thai": "๕",
         "english":"five"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS",
         "thai": "๕๑",
         "english":"fifty one"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS",
         "thai": "๖",
         "english":"six"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS",
         "thai": "๖๑",
         "english":"sixty one"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS",
         "thai": "๗",
         "english":"seven"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS",
         "thai": "๗๑",
         "english":"seventy one"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS",
         "thai": "๘",
         "english":"eight"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS",
         "thai": "๘๑",
         "english":"eighty one"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS",
         "thai": "๙",
         "english":"nine"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS",
         "thai": "๙๑",
         "english":"ninety one"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS 2",
         "thai": "๑,๐๐๐",
         "english":"one thousand"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS 2",
         "thai": "๑,๐๐๐,๐๐๐",
         "english":"one million"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS 2",
         "thai": "๑๐",
         "english":"ten"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS 2",
         "thai": "๑๐,๐๐๐",
         "english":"ten thousand"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS 2",
         "thai": "๑๐๐",
         "english":"one hundred"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THAI NUMERALS 2",
         "thai": "๑๐๐,๐๐๐",
         "english":"one hundred thousand"
@@ -13596,7 +13596,7 @@
         "english":"council of ministers"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THE BUREAUCRACY, OFFICE AND MINISTRIES",
         "thai": "สำนักนายก",
         "english":"office of the prime minister"
@@ -13632,7 +13632,7 @@
         "english":"director-general"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THE BUREAUCRACY, OFFICE AND MINISTRIES",
         "thai": "หัวหน้ากอง",
         "english":"chief"
@@ -13686,7 +13686,7 @@
         "english":"communications"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THE BUREAUCRACY, OFFICE AND MINISTRIES",
         "thai": "พัฒนาการแห่งชาติ",
         "english":"national development"
@@ -13734,25 +13734,25 @@
         "english":"King (2)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THE KING AND THE ROYAL FAMILY",
         "thai": "เจ้าฟ้าชาย",
         "english":"prince"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THE KING AND THE ROYAL FAMILY",
         "thai": "เจ้าฟ้าหญิง 1",
         "english":"princess"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THE KING AND THE ROYAL FAMILY",
         "thai": "เจ้าฟ้าหญิง 2",
         "english":"princess"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI THE KING AND THE ROYAL FAMILY",
         "thai": "เจ้าฟ้าหญิง3",
         "english":"Princess"
@@ -13818,7 +13818,7 @@
         "english":"after"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI TIME PHRASES 1",
         "thai": "ตอนเช ้า",
         "english":"in the morning"
@@ -13830,7 +13830,7 @@
         "english":"late"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI TIME PHRASES 1",
         "thai": "ตอนเ ที่ยง",
         "english":"noon"
@@ -14034,7 +14034,7 @@
         "english":"bean"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI VEGETABLES AND FRUITS",
         "thai": "พริกเผ็ด",
         "english":"hot pepper"
@@ -14046,7 +14046,7 @@
         "english":"spices"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI VEGETABLES AND FRUITS",
         "thai": "ไอสครีม",
         "english":"ice cream"
@@ -14082,13 +14082,13 @@
         "english":"coconut"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI VEGETABLES AND FRUITS",
         "thai": "มะนาวไทย",
         "english":"lime"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI VEGETABLES AND FRUITS",
         "thai": "มะนาวฝรั่ง",
         "english":"lemon"
@@ -14124,7 +14124,7 @@
         "english":"freezing"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI WEATHER",
         "thai": "แดดร้อน / ฟ้าโปร่ง",
         "english":"sunny /clear"
@@ -14154,13 +14154,13 @@
         "english":"windy"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI WEATHER",
         "thai": "หมอกลงจัด",
         "english":"foggy"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"BYKI WEATHER",
         "thai": "ร้อนชื้น",
         "english":"humid"
@@ -14172,73 +14172,73 @@
         "english":"abbreviations"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang abbreviations",
         "thai": "รพ.",
         "english":"hospital"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang abbreviations",
         "thai": "รร.",
         "english":"school"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang abbreviations",
         "thai": "กทม.",
         "english":"Bangkok"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang abbreviations",
         "thai": "กม.",
         "english":"kilometer"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang abbreviations",
         "thai": "นส.",
         "english":"Ms."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang abbreviations",
         "thai": "สส.",
         "english":"MP"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang abbreviations",
         "thai": "ดร.",
         "english":"Dr."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang abbreviations",
         "thai": "โทร.",
         "english":"telephone"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang abbreviations",
         "thai": "ปล.",
         "english":"P.S."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang abbreviations",
         "thai": "พ.ศ.",
         "english":"Buddhist Era"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang abbreviations",
         "thai": "ค.ศ.",
         "english":"Common Era"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang abbreviations",
         "thai": "ม.",
         "english":"university"
@@ -14250,7 +14250,7 @@
         "english":"(body of) work"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang academic-shortlist",
         "thai": "ศัีพท์บัญญัติ",
         "english":"(coined) terminology"
@@ -14490,7 +14490,7 @@
         "english":"base"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang alphabet-words-1",
         "thai": "มณโฑ",
         "english":"Lady Montho"
@@ -14682,7 +14682,7 @@
         "english":"dove"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-birds",
         "thai": "นา่งนวล",
         "english":"gull"
@@ -14712,7 +14712,7 @@
         "english":"peacock"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-birds",
         "thai": "นกเพนกวิน",
         "english":"penguin"
@@ -14766,7 +14766,7 @@
         "english":"dragonfly"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-insects",
         "thai": "ไรฝุ่น",
         "english":"dust mite"
@@ -14838,7 +14838,7 @@
         "english":"mite"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-insects",
         "thai": "ไรฝุ่น",
         "english":"dustmite"
@@ -14880,13 +14880,13 @@
         "english":"amoeba"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-invertebrates",
         "thai": "นิวเคลียสของเซลล์",
         "english":"cell nucleus"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-invertebrates",
         "thai": "โปรโตปลาสซึม",
         "english":"protoplasm"
@@ -14898,25 +14898,25 @@
         "english":"pseudopod"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-invertebrates",
         "thai": "ช่องขับถ่าย",
         "english":"excretory vacuole"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-invertebrates",
         "thai": "ช่องเก็บอาหาร",
         "english":"food vacuole"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-invertebrates",
         "thai": "นิวเคลียสใหญ่",
         "english":"macronucleus"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-invertebrates",
         "thai": "สัตว์หลายเซลล์",
         "english":"metazoan"
@@ -14934,7 +14934,7 @@
         "english":"jellyfish"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-invertebrates",
         "thai": "ส่วนลำตัว",
         "english":"umbrella"
@@ -14946,19 +14946,19 @@
         "english":"coral"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-invertebrates",
         "thai": "กลุ่มปะการัง",
         "english":"coral colony"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-invertebrates",
         "thai": "หน่อปะการัง",
         "english":"coral polyp"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-invertebrates",
         "thai": "ไส้เดืิิอน",
         "english":"worm"
@@ -14970,19 +14970,19 @@
         "english":"leech"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-invertebrates",
         "thai": "แผ่นดูด",
         "english":"sucker"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-invertebrates",
         "thai": "ไส้เดือนปากขอ",
         "english":"bristle worm"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-invertebrates",
         "thai": "ไส้เดือนดิน",
         "english":"earthworm"
@@ -15006,7 +15006,7 @@
         "english":"extinct"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-other",
         "thai": "หมาในขนลาย",
         "english":"hyena"
@@ -15018,13 +15018,13 @@
         "english":"bear"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-other",
         "thai": "หมีน้ำตาล",
         "english":"brown bear"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-other",
         "thai": "หมีขั้วโลก",
         "english":"polar bear"
@@ -15042,13 +15042,13 @@
         "english":"mole"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-other",
         "thai": "ตัวนิ่ม",
         "english":"pangolin"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-other",
         "thai": "สัตว์จำพวกแมว",
         "english":"feline"
@@ -15090,13 +15090,13 @@
         "english":"lynx"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-other",
         "thai": "มาร์ซูเปียเลีย",
         "english":"marsupial"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-other",
         "thai": "โอพอสซัม",
         "english":"opossum"
@@ -15264,7 +15264,7 @@
         "english":"to crow"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-primates",
         "thai": "ลิงรีซัส",
         "english":"rhesus"
@@ -15276,7 +15276,7 @@
         "english":"lemur"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-primates",
         "thai": "ลิงบาบูน",
         "english":"baboon"
@@ -15288,7 +15288,7 @@
         "english":"gibbon"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-primates",
         "thai": "ลิงไม่มีหาง",
         "english":"ape"
@@ -15306,7 +15306,7 @@
         "english":"orangutan"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-primates",
         "thai": "กอริลล่า",
         "english":"gorilla"
@@ -15378,7 +15378,7 @@
         "english":"gecko"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-rodent",
         "thai": "สัตว์ฟันแทะ",
         "english":"rodent"
@@ -15396,7 +15396,7 @@
         "english":"chipmunk"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-rodent",
         "thai": "ค้่างคาว",
         "english":"bat"
@@ -15438,13 +15438,13 @@
         "english":"deer"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-ruminants",
         "thai": "กวางมูส",
         "english":"moose"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-ruminants",
         "thai": "ยิราฟ",
         "english":"giraffe"
@@ -15456,7 +15456,7 @@
         "english":"antelope"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-ruminants",
         "thai": "แพะภูเขา",
         "english":"ibex"
@@ -15468,25 +15468,25 @@
         "english":"water buffalo"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-ruminants",
         "thai": "ควายไบซัน",
         "english":"bison"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-ruminants",
         "thai": "วัวป่า",
         "english":"musk ox"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-ruminants",
         "thai": "ชามัว",
         "english":"chamois"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-sea",
         "thai": "นากทะเล",
         "english":"sea otter"
@@ -15498,7 +15498,7 @@
         "english":"sea lion"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-sea",
         "thai": "วอลรัส",
         "english":"walrus"
@@ -15540,7 +15540,7 @@
         "english":"cuttlefish"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-sea",
         "thai": "ปลาดาว (ดาวทะเล)",
         "english":"starfish (sea star)"
@@ -15570,7 +15570,7 @@
         "english":"king cobra"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-snakes",
         "thai": "งูเห่าพ่นพิษ",
         "english":"spitting cobra"
@@ -15594,7 +15594,7 @@
         "english":"Burmese python"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-snakes",
         "thai": "งูหางกระดิ่ง",
         "english":"rattlesnake"
@@ -15630,7 +15630,7 @@
         "english":"to hiss (of a snake)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-ungulates",
         "thai": "สัตว์กีบคู่",
         "english":"even-toed ungulate"
@@ -15660,7 +15660,7 @@
         "english":"gaur"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-ungulates",
         "thai": "สัตว์กีบคี่",
         "english":"odd-toed ungulate"
@@ -15684,7 +15684,7 @@
         "english":"mule"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-ungulates",
         "thai": "แมนนาที",
         "english":"manatee"
@@ -15702,13 +15702,13 @@
         "english":"rhino"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-ungulates",
         "thai": "งวง (ช้าง)",
         "english":"trunk (elephant)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang animals-ungulates",
         "thai": "งา (ช้าง)",
         "english":"tusk (elephant)"
@@ -15792,7 +15792,7 @@
         "english":"pianist"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang art-jobs",
         "thai": "นักกีตาร์",
         "english":"guitarist"
@@ -15822,7 +15822,7 @@
         "english":"tempera"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang art-supplies",
         "thai": "สีชอล์ค",
         "english":"pastel"
@@ -15852,7 +15852,7 @@
         "english":"cloth dye"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang art-supplies",
         "thai": "สีทาบ้าน",
         "english":"housepaint"
@@ -15996,7 +15996,7 @@
         "english":"planet"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang astronomy",
         "thai": "ดาวเคราะห์แคระ",
         "english":"dwarf planet"
@@ -16008,7 +16008,7 @@
         "english":"asteroid"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang astronomy",
         "thai": "ดวงจันทร์บริวาร",
         "english":"moon (general)"
@@ -16074,19 +16074,19 @@
         "english":"Saturn"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang astronomy",
         "thai": "ดาวยูเรนัส",
         "english":"Uranus"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang astronomy",
         "thai": "ดาวเนปจูน",
         "english":"Neptune"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang astronomy",
         "thai": "ดาวพลูโต",
         "english":"Pluto"
@@ -16116,7 +16116,7 @@
         "english":"pore"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang body-external",
         "thai": "ผิวย่น",
         "english":"wrinkle"
@@ -16374,7 +16374,7 @@
         "english":"to part the hair"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang body-hair",
         "thai": "ยืดผม",
         "english":"to get a perm"
@@ -16404,13 +16404,13 @@
         "english":"pony tail"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang body-hair",
         "thai": "ผมสีดำ",
         "english":"black hair"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang body-hair",
         "thai": "ผมสีบลอนด์",
         "english":"blond hair"
@@ -16434,7 +16434,7 @@
         "english":"red hair"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang body-hair",
         "thai": "ผมตรง",
         "english":"straight hair"
@@ -16446,7 +16446,7 @@
         "english":"wavy hair"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang body-hair",
         "thai": "ผมเป็นลอน",
         "english":"curly hair"
@@ -16626,7 +16626,7 @@
         "english":"finger"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang body-limbs-arm-hand",
         "thai": "ปลายนิ้วมือ",
         "english":"fingertip"
@@ -16656,7 +16656,7 @@
         "english":"middle finger"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang body-limbs-arm-hand",
         "thai": "นิ้งนาง",
         "english":"ring finger"
@@ -17010,7 +17010,7 @@
         "english":"appendix"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang body-organs",
         "thai": "ถุึงน้ำดี",
         "english":"gall bladder"
@@ -17082,13 +17082,13 @@
         "english":"anus"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang body-privates",
         "thai": "รูก้น",
         "english":"anus (informal)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang body-privates",
         "thai": "รูตูด",
         "english":"anus (vulgar)"
@@ -17214,7 +17214,7 @@
         "english":"dedication"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang books-parts",
         "thai": "กิตติมประกาศ",
         "english":"acknowledgments"
@@ -17250,7 +17250,7 @@
         "english":"chapter"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang books-parts",
         "thai": "ตัวเรื่อง",
         "english":"text"
@@ -17274,7 +17274,7 @@
         "english":"epilogue"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang books-parts",
         "thai": "ภาึคผนวก",
         "english":"appendix"
@@ -17418,7 +17418,7 @@
         "english":"edition"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang books-types",
         "thai": "พิมพ์ครั้งที่ (n)",
         "english":"(nth) printing"
@@ -17436,7 +17436,7 @@
         "english":"capital"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang business-finance",
         "thai": "ส่วนต่าง",
         "english":"difference"
@@ -17670,7 +17670,7 @@
         "english":"marketing"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang business-marketing",
         "thai": "โปรโมชั่น",
         "english":"promotion"
@@ -18066,7 +18066,7 @@
         "english":"gloves"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang clothes-accessories",
         "thai": "เน็กไท",
         "english":"tie"
@@ -18222,25 +18222,25 @@
         "english":"vest"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang clothes-pants-shirts",
         "thai": "เสื้อแจ็กเก็ต",
         "english":"jacket"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang clothes-pants-shirts",
         "thai": "เสื้อโค้ต",
         "english":"coat"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang clothes-pants-shirts",
         "thai": "ชุดสูต",
         "english":"suit"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang clothes-pants-shirts",
         "thai": "เสื้อสูต",
         "english":"suitcoat"
@@ -18282,7 +18282,7 @@
         "english":"size"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang clothes-parts",
         "thai": "ไซซ์",
         "english":"size (informal)"
@@ -18324,7 +18324,7 @@
         "english":"bra"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang clothes-underwear-etc",
         "thai": "เสื้อใน",
         "english":"bra (informal)"
@@ -18378,7 +18378,7 @@
         "english":"to tie"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang clothes-verbs",
         "thai": "ลองใส่",
         "english":"to try on"
@@ -18546,7 +18546,7 @@
         "english":"light green"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang colors-complex",
         "thai": "สีน้ำตาลอ่อน",
         "english":"light brown"
@@ -18636,7 +18636,7 @@
         "english":"off-white"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang colors-complex",
         "thai": "สีขา่วโพลน",
         "english":"snow white"
@@ -18648,13 +18648,13 @@
         "english":"straw"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang colors-modifiers",
         "thai": "(สี) อ่อน",
         "english":"light (color)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang colors-modifiers",
         "thai": "(สี) แก่",
         "english":"dark (color)"
@@ -18780,7 +18780,7 @@
         "english":"interviewer"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang comm-news",
         "thai": "ผู้ให้สัมภาษณ์",
         "english":"interviewee"
@@ -18822,7 +18822,7 @@
         "english":"headline news"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang comm-newspaper",
         "thai": "ข่าวหน้าหนึ่ง",
         "english":"frontpage news"
@@ -18864,19 +18864,19 @@
         "english":"editorial"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang comm-newspaper",
         "thai": "ฉบับเช้า",
         "english":"morning edition"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang comm-newspaper",
         "thai": "ฉบับเย็น",
         "english":"evening edition"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang comm-newspaper",
         "thai": "การสัมภาษณ์",
         "english":"interview"
@@ -19044,7 +19044,7 @@
         "english":"RAM"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang computer",
         "thai": "เมนบอร์ด",
         "english":"motherboard"
@@ -19062,7 +19062,7 @@
         "english":"DVD"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang computer",
         "thai": "คานเคาะวรรค",
         "english":"spacebar"
@@ -19404,7 +19404,7 @@
         "english":"burglary"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang crime-nouns-a-g",
         "thai": "การทารุณเด็ก",
         "english":"child abuse"
@@ -19554,7 +19554,7 @@
         "english":"to commit arson"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang crime-verbs-a-j",
         "thai": "สมรสซ้อน",
         "english":"to commit bigamy"
@@ -19566,7 +19566,7 @@
         "english":"to commit fraud"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang crime-verbs-a-j",
         "thai": "ทำฆาตกรรม",
         "english":"to commit homicide"
@@ -19608,7 +19608,7 @@
         "english":"to murder"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang crime-verbs-k-z",
         "thai": "เบิกความเท็จ",
         "english":"to perjure"
@@ -19746,7 +19746,7 @@
         "english":"high school (level)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang education-classroom",
         "thai": "อดุมศึกษา",
         "english":"university (level)"
@@ -19776,13 +19776,13 @@
         "english":"dissertation"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang education-other",
         "thai": "ปริญญานิพนธ์",
         "english":"thesis"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang education-other",
         "thai": "ทุนศึกษา",
         "english":"grant"
@@ -19794,7 +19794,7 @@
         "english":"scholarship"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang education-other",
         "thai": "การอบรมครู",
         "english":"teacher training"
@@ -19920,13 +19920,13 @@
         "english":"blackboard"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang education-tools",
         "thai": "ไวท์บอร์ด",
         "english":"whiteboard"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang education-tools",
         "thai": "แปรงลบ",
         "english":"(felt) eraser"
@@ -19980,25 +19980,25 @@
         "english":"calculator"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang education-tools",
         "thai": "ที่เหลาดินสอ",
         "english":"pencil sharpener"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang education-tools",
         "thai": "น้ำยาลบคำ",
         "english":"correcting fluid"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang education-tools",
         "thai": "หนังสือแบบฝึกหัด",
         "english":"exercise book"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang education-tools",
         "thai": "ดินสอเทียน",
         "english":"crayon"
@@ -20094,7 +20094,7 @@
         "english":"to test"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang education-verbs",
         "thai": "ทำข้อสอบ",
         "english":"to take a test"
@@ -20112,7 +20112,7 @@
         "english":"to attend"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang education-verbs",
         "thai": "เคารพธงชาติ",
         "english":"to salute the flag"
@@ -20256,7 +20256,7 @@
         "english":"feeling"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang emotion-positive",
         "thai": "มีความสุข",
         "english":"happy"
@@ -20328,19 +20328,19 @@
         "english":"to care about"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang family-adoption",
         "thai": "รับเป็นลูกบุญธรรม",
         "english":"to adopt"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang family-adoption",
         "thai": "(ลูก) บุญธรรม",
         "english":"adopted (child)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang family-adoption",
         "thai": "(พ่อแม่) บุญธรรม",
         "english":"adoptive (parents)"
@@ -20412,7 +20412,7 @@
         "english":"(paternal) grandmother"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang family-ancestors",
         "thai": "ตายาย",
         "english":"(maternal) grandparents"
@@ -20532,7 +20532,7 @@
         "english":"family"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang family-immediate",
         "thai": "สมาชิกครอบครัว",
         "english":"family member"
@@ -20682,19 +20682,19 @@
         "english":"younger brother"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang family-immediate",
         "thai": "เป็นพี่น้องกัน",
         "english":"to be siblings"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-condiments",
         "thai": "ซอสพริก",
         "english":"chili sauce"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-condiments",
         "thai": "ซอสมะเขือเทศ",
         "english":"ketchup"
@@ -20712,7 +20712,7 @@
         "english":"jam"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-condiments",
         "thai": "มายองเนส",
         "english":"mayonnaise"
@@ -20874,7 +20874,7 @@
         "english":"to heat"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-cooking-verbs",
         "thai": "หุง (ข้าว)",
         "english":"to cook (rice)"
@@ -20934,7 +20934,7 @@
         "english":"cheese"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-dairy-egg",
         "thai": "ชีส",
         "english":"cheese (colloquial)"
@@ -20946,7 +20946,7 @@
         "english":"cream"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-dairy-egg",
         "thai": "ไอศครีม",
         "english":"ice cream"
@@ -20988,7 +20988,7 @@
         "english":"powdered milk"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-dairy-egg",
         "thai": "โยเกิร์ต",
         "english":"yogurt"
@@ -21004,13 +21004,6 @@
         "source":"SEAlang food-dairy-egg",
         "thai": "ไข่",
         "english":"egg"
-    },
-    {
-        "rank":"100",
-        "source":"SEAlang food-dairy-egg",
-        "thai": "",
-        "english": "<td>egg white</tr>
-        <tr><td width="10%">7"
     },
     {
         "rank":"7",
@@ -21115,7 +21108,7 @@
         "english":"brandy"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-drinks",
         "thai": "แชมเปญ",
         "english":"champagne"
@@ -21169,13 +21162,13 @@
         "english":"orange juice"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-drinks",
         "thai": "น้ำองุ่น",
         "english":"grape juice"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-drinks",
         "thai": "น้ำแอปเปิล",
         "english":"apple juice"
@@ -21289,7 +21282,7 @@
         "english":"grape"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-fruit-foreign",
         "thai": "มะนาวเหลือง",
         "english":"lemon"
@@ -21301,19 +21294,19 @@
         "english":"peach"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-fruit-foreign",
         "thai": "ราสเบอร์รี่",
         "english":"raspberry"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-fruit-foreign",
         "thai": "สตรอเบอร์รี่",
         "english":"strawberry"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-fruit-foreign",
         "thai": "แคนตาลูป",
         "english":"cantaloupe"
@@ -21595,7 +21588,7 @@
         "english":"lemon grass"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-herbs",
         "thai": "มินท์",
         "english":"mint"
@@ -21649,13 +21642,13 @@
         "english":"ham"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-meat",
         "thai": "เบคอน",
         "english":"bacon"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-meat",
         "thai": "ฮอทดอก",
         "english":"hot dog"
@@ -21715,7 +21708,7 @@
         "english":"thin rice noodles"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-noodles",
         "thai": "เส้นบะหมี่",
         "english":"rice noodles"
@@ -21787,7 +21780,7 @@
         "english":"peanut"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-nuts-beans",
         "thai": "เม็ดมะม่วงหิมพานต์",
         "english":"cashew"
@@ -21895,7 +21888,7 @@
         "english":"chocolate"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-thai",
         "thai": "อาหารไทย",
         "english":"Thai food"
@@ -21919,7 +21912,7 @@
         "english":"curry"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-thai",
         "thai": "แกงแดง",
         "english":"red curry"
@@ -21967,7 +21960,7 @@
         "english":"chicken rice pilaf"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-thai",
         "thai": "กทิ",
         "english":"coconut cream"
@@ -22117,7 +22110,7 @@
         "english":"taro"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang food-vegetables",
         "thai":"ผักบุ้ง",
         "english":"water spinach"
@@ -22171,13 +22164,13 @@
         "english":"liquid petroleum gas (LPG)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang fuel",
         "thai": "ซีเอ็นจี",
         "english":"compressed natural gas (CNG)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang fuel",
         "thai": "เอ็นจีวี",
         "english":"natural gas vehicle (NGV)"
@@ -22501,7 +22494,7 @@
         "english":"queen"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang gov-people",
         "thai": "สมเด็จพระราชินี",
         "english":"queen (formal)"
@@ -22579,13 +22572,13 @@
         "english":"governor"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang gov-people",
         "thai": "ผู้พิพากษาศาลกลาง",
         "english":"magistrate"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang gov-people",
         "thai": "ผู้ว่าการเทศบาล",
         "english":"mayor"
@@ -22603,7 +22596,7 @@
         "english":"member of parliament"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang gov-people",
         "thai": "ส.ส.",
         "english":"MP"
@@ -22621,13 +22614,13 @@
         "english":"towel"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-bathroom-stuff",
         "thai": "สบู่เกล็ด",
         "english":"bath salts"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-bathroom-stuff",
         "thai": "ต๊กตาเป็ด",
         "english":"toy duck"
@@ -22639,19 +22632,19 @@
         "english":"toilet paper"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-bathroom-stuff",
         "thai": "ทิชชู่",
         "english":"toilet paper (informal)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-bathroom-stuff",
         "thai": "ที่ใส่กระดาษชำระ",
         "english":"toilet paper holder"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-bathroom-stuff",
         "thai": "ที่ใส่ทิชชู่",
         "english":"toilet paper holder (informal)"
@@ -22669,7 +22662,7 @@
         "english":"hand towel"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-bathroom-stuff",
         "thai": "น้ำยาบ้วนปาก",
         "english":"mouthwash"
@@ -22687,7 +22680,7 @@
         "english":"scale"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-bathroom-stuff",
         "thai": "อาบ (น้ำ)",
         "english":"to bathe"
@@ -22723,25 +22716,25 @@
         "english":"toilet bowl"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-bathroom",
         "thai": "ฝาส้วม",
         "english":"toilet lid"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-bathroom",
         "thai": "ที่นั่งส้วม",
         "english":"toilet seat"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-bathroom",
         "thai": "ถังส้วม",
         "english":"toilet tank"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-bathroom",
         "thai": "ที่ชักโครก",
         "english":"flushing lever"
@@ -22777,7 +22770,7 @@
         "english":"showerhead"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-bathroom",
         "thai": "ราวแขวนผ้าเช็ดตัว",
         "english":"towel rail"
@@ -22867,19 +22860,19 @@
         "english":"double bed"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-bedroom",
         "thai": "พนักปลายเตียง",
         "english":"foot of the bed"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-bedroom",
         "thai": "โครงเตียงนอน",
         "english":"bed frame"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-bedroom",
         "thai": "พนักหัวเตียง",
         "english":"headboard"
@@ -22909,25 +22902,25 @@
         "english":"mattress"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-bedroom",
         "thai": "ที่นอนสปริง",
         "english":"spring mattress"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-bedroom",
         "thai": "ที่นอนโฟม",
         "english":"foam mattress"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-bedroom",
         "thai": "ที่นอนยางพารา",
         "english":"foam rubber mattress"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-bedroom",
         "thai": "ฐานรองที่นอน",
         "english":"box spring"
@@ -22945,7 +22938,7 @@
         "english":"pillowcase"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-bedroom",
         "thai": "ตู้ข้างเตียง",
         "english":"bedside cabinet"
@@ -22981,7 +22974,7 @@
         "english":"perfume"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-bedroom",
         "thai": "กล่องแป้ง",
         "english":"powder box"
@@ -22999,7 +22992,7 @@
         "english":"dining table"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-dining-room",
         "thai": "โต๊ะรับประทานอาหาร",
         "english":"dining table (formal)"
@@ -23011,13 +23004,13 @@
         "english":"table"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-dining-room",
         "thai": "ขาโต๊ะ",
         "english":"table leg"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-dining-room",
         "thai": "หน้าโต๊ะ",
         "english":"tabletop"
@@ -23029,19 +23022,19 @@
         "english":"chair back"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-dining-room",
         "thai": "ที่รองจาน",
         "english":"placemat"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-dining-room",
         "thai": "จานซุป",
         "english":"soup plate"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-dining-room",
         "thai": "จานอาหาร",
         "english":"dinner plate"
@@ -23059,7 +23052,7 @@
         "english":"dishes"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-dining-room",
         "thai": "โถซุป",
         "english":"soup tureen"
@@ -23077,19 +23070,19 @@
         "english":"lamp"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-dining-room",
         "thai": "ตู้เก็บถ้วยชาม",
         "english":"sideboard"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-dining-room",
         "thai": "ถาดกลม",
         "english":"round tray"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-dining-room",
         "thai": "ชุดกาแฟ",
         "english":"coffee service"
@@ -23113,13 +23106,13 @@
         "english":"saucer"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-dining-room",
         "thai": "โถน้ำตาล",
         "english":"sugar bowl"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-dining-room",
         "thai": "ชุดถ้วยจานชาม",
         "english":"dinner service"
@@ -23137,7 +23130,7 @@
         "english":"furniture (formal)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-furniture",
         "thai": "ชั้นหนังสือ",
         "english":"bookshelf"
@@ -23155,7 +23148,7 @@
         "english":"cabinet"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-furniture",
         "thai": "ตู้เก็บของ",
         "english":"cupboard"
@@ -23179,7 +23172,7 @@
         "english":"overstuffed chair"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-furniture",
         "thai": "โต๊ะรับแขก",
         "english":"coffee table"
@@ -23203,7 +23196,7 @@
         "english":"dining table (informal)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-furniture",
         "thai": "โต๊ะรับประทารอาหาร",
         "english":"dining table (formal)"
@@ -23221,13 +23214,13 @@
         "english":"bench"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-furniture",
         "thai": "เบาะนั่ง",
         "english":"seat cushion"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-furniture",
         "thai": "เบาะพิงหลัง",
         "english":"back cushion"
@@ -23245,13 +23238,13 @@
         "english":"(entrance) hall"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-hall",
         "thai": "ราวแขวนเสื้อ",
         "english":"coat rack"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-hall",
         "thai": "ตะขอแขวนเสื้อ",
         "english":"coat hook"
@@ -23281,13 +23274,13 @@
         "english":"mirror"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-hall",
         "thai": "ชั้นวางรองเท้า",
         "english":"shoe rack"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-hall",
         "thai": "ตู้วางรองเท้า",
         "english":"shoe cabinet"
@@ -23305,13 +23298,13 @@
         "english":"umbrella"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-hall",
         "thai": "ร่มพับ",
         "english":"telescopic umbrella"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-hall",
         "thai": "ที่ใส่ร่ม",
         "english":"umbrella stand"
@@ -23329,13 +23322,13 @@
         "english":"fuse box"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-hall",
         "thai": "ไกตัดตอนวงจร",
         "english":"circuit breaker"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-hall",
         "thai": "ไฟบันได",
         "english":"stair light"
@@ -23347,7 +23340,7 @@
         "english":"handrail"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-hall",
         "thai": "ขั้นบันได้",
         "english":"(stair) step"
@@ -23359,13 +23352,13 @@
         "english":"front door"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-hall",
         "thai": "วงกบประตู",
         "english":"door frame"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-hall",
         "thai": "กุญแจประตู",
         "english":"door lock"
@@ -23395,7 +23388,7 @@
         "english":"electric stove"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-kitchen-1",
         "thai": "เตาแก๊ซ",
         "english":"gas stove"
@@ -23419,7 +23412,7 @@
         "english":"toaster"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-kitchen-1",
         "thai": "เครื่องชงกาแฟ",
         "english":"coffee maker"
@@ -23431,13 +23424,13 @@
         "english":"blender"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-kitchen-1",
         "thai": "หม้อตุ๋น",
         "english":"pressure cooker"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-kitchen-1",
         "thai": "ที่บดเนื้อ",
         "english":"mincer"
@@ -23455,7 +23448,7 @@
         "english":"freezer (compartment)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-kitchen-2",
         "thai": "ช่องฟรีซ",
         "english":"freezer (compartment--colloquial)"
@@ -23479,13 +23472,13 @@
         "english":"timer"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-kitchen-2",
         "thai": "เครื่องผสมอาหาร",
         "english":"mixer"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-kitchen-2",
         "thai": "อ่างล้างจาน",
         "english":"(kitchen) sink"
@@ -23497,7 +23490,7 @@
         "english":"dishwasher"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-kitchen-2",
         "thai": "ที่คั้นน้ำมะนาว",
         "english":"lemon squeezer"
@@ -23533,13 +23526,13 @@
         "english":"tablespoon"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-kitchen-utensils",
         "thai": "ช้อนไม้",
         "english":"wooden spoon"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-kitchen-utensils",
         "thai": "ช้อนคน",
         "english":"mixing spoon"
@@ -23551,7 +23544,7 @@
         "english":"wok"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-kitchen-utensils",
         "thai": "กระทะก้นแบน",
         "english":"frying pan"
@@ -23563,7 +23556,7 @@
         "english":"thermos"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-kitchen-utensils",
         "thai": "หม้อ(หุงต้ม)",
         "english":"(cooking) pot"
@@ -23575,7 +23568,7 @@
         "english":"pot lid"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-kitchen-utensils",
         "thai": "หม้ออบ",
         "english":"casserole dish"
@@ -23593,7 +23586,7 @@
         "english":"kettle"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-kitchen-utensils",
         "thai": "กาน้ำนกหวีด",
         "english":"whistling kettle"
@@ -23605,19 +23598,19 @@
         "english":"whistle"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-kitchen-utensils",
         "thai": "ที่เปิดจุกคอร์ก",
         "english":"corkscrew"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-kitchen-utensils",
         "thai": "พิมพ์เค้ก",
         "english":"cake tin"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-kitchen-utensils",
         "thai": "ผ้าจับหม้อ",
         "english":"potholder"
@@ -23629,13 +23622,13 @@
         "english":"pitcher"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-kitchen-utensils",
         "thai": "ตะแกรงตากจาน",
         "english":"dish drainer"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-living-room",
         "thai":"ห้องนั่งเล่น",
         "english":"living room"
@@ -23647,13 +23640,13 @@
         "english":"bookshelf"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-living-room",
         "thai": "แถวหนังสือ",
         "english":"row of books"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-living-room",
         "thai": "ตู้เก็บของ",
         "english":"cabinet"
@@ -23677,13 +23670,13 @@
         "english":"overstuffed chair"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-living-room",
         "thai": "เบาะนั่ง",
         "english":"seat cushion"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-living-room",
         "thai": "เบาะพิงหลัง",
         "english":"back cushion"
@@ -23695,7 +23688,7 @@
         "english":"throw pillow"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-living-room",
         "thai": "โต๊ะกลาง",
         "english":"coffee table"
@@ -23731,7 +23724,7 @@
         "english":"stereo equipment"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-mechanical",
         "thai": "สเตอริโอ",
         "english":"stereo"
@@ -23761,7 +23754,7 @@
         "english":"mantle clock"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang home-rooms",
         "thai":"ห้องรับแขก",
         "english":"living room"
@@ -23875,7 +23868,7 @@
         "english":"ecology"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang jobs-a-l",
         "thai": "วิศวกรรมศาสตร์ไฟฟ้า",
         "english":"electrical engineering"
@@ -23983,7 +23976,7 @@
         "english":"cook (informal)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang jobs-cooking",
         "thai": "เชฟ",
         "english":"chef"
@@ -24025,7 +24018,7 @@
         "english":"to fire"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang jobs-general",
         "thai": "สมัคร(งาน)",
         "english":"to apply (for work)"
@@ -24115,13 +24108,13 @@
         "english":"psychologist"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang jobs-household",
         "thai": "พี่เลี้ยงเด็ก",
         "english":"au pair"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang jobs-household",
         "thai": "พี่เลี้ยงเด็ก",
         "english":"babysitter"
@@ -24193,7 +24186,7 @@
         "english":"orthopedics"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang jobs-m-z",
         "thai": "กุมารเวลศาสตร์",
         "english":"pediatrics"
@@ -24325,7 +24318,7 @@
         "english":"poet"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang jobs-religion",
         "thai": "นักดาราศาสตร์",
         "english":"astrologer"
@@ -24355,7 +24348,7 @@
         "english":"monk (informal)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang jobs-religion",
         "thai": "พระสันตะปาปา",
         "english":"Pope"
@@ -24427,7 +24420,7 @@
         "english":"geographer"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang jobs-science",
         "thai": "นักธรณีวิทยา",
         "english":"geologist"
@@ -24457,7 +24450,7 @@
         "english":"linguist"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang jobs-science",
         "thai": "นักคณิตศาสตร์",
         "english":"mathematician"
@@ -24511,7 +24504,7 @@
         "english":"barber"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang jobs-vocational-a-g",
         "thai": "นักผสมเหล้า",
         "english":"bartender"
@@ -24577,7 +24570,7 @@
         "english":"farmer (fruit and vegetable) "
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang jobs-vocational-a-g",
         "thai": "เจ้าหน้าที่ดับเพลิง",
         "english":"firefighter"
@@ -24589,13 +24582,13 @@
         "english":"fisherman"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang jobs-vocational-a-g",
         "thai": "เจ้าหน้าที่รักษาความปลอดภัย",
         "english":"guard (formal)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang jobs-vocational-a-g",
         "thai": "ร.ป.ภ.",
         "english":"guard (informal)"
@@ -24613,7 +24606,7 @@
         "english":"guide (formal)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang jobs-vocational-a-g",
         "thai": "ไกด์",
         "english":"guide"
@@ -24631,7 +24624,7 @@
         "english":"janitor"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang jobs-vocational-h-z",
         "thai": "ช่างนวด",
         "english":"masseuse"
@@ -24697,7 +24690,7 @@
         "english":"taxi driver (informal)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang jobs-vocational-h-z",
         "thai": "คนขับแท็กซี่",
         "english":"taxi driver"
@@ -24787,7 +24780,7 @@
         "english":"diamond"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang materials-1-a-i",
         "thai": "แก๊ซ",
         "english":"gas"
@@ -24985,19 +24978,19 @@
         "english":"perpendicular"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang math-numbers",
         "thai": "ตัวเลขโรมัน",
         "english":"Roman numerals"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang math-numbers",
         "thai": "ตัวเลขอารบิก",
         "english":"Arabic numerals"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang math-numbers",
         "thai": "ตัวเลขไทย",
         "english":"Thai numerals"
@@ -25021,7 +25014,7 @@
         "english":"odd number"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang math-numbers",
         "thai": "จำนวนเฉพาะ",
         "english":"prime number"
@@ -25039,13 +25032,13 @@
         "english":"digit"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang math-numbers",
         "thai": "สองหลัก",
         "english":"two-digit"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang math-numbers",
         "thai": "เลขสามหลัก",
         "english":"two-digit number"
@@ -25087,7 +25080,7 @@
         "english":"equation"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang math-operations",
         "thai": "ผลเฉลย",
         "english":"solution"
@@ -25171,13 +25164,13 @@
         "english":"circle"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang math-shapes",
         "thai": "รูปครึ่งวงกลม",
         "english":"semicircle"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang math-shapes",
         "thai": "รูปทรงกลม",
         "english":"sphere"
@@ -25189,7 +25182,7 @@
         "english":"cube"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang math-shapes",
         "thai": "รูปทรงกระบอก",
         "english":"cylinder"
@@ -25273,7 +25266,7 @@
         "english":"calculus"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang measurement-area",
         "thai": "มาตราชั่งตวงวัด",
         "english":"units of measurement"
@@ -25387,7 +25380,7 @@
         "english":"meter"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang measurement-distance",
         "thai": "ม.",
         "english":"meter (abbrev.)"
@@ -25495,7 +25488,7 @@
         "english":"centigram"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang measurement-weight",
         "thai": "ซก.",
         "english":"centigram (abbrev.)"
@@ -25759,7 +25752,7 @@
         "english":"dulcimer"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang music-instruments",
         "thai": "กีต้าร์",
         "english":"guitar"
@@ -25903,7 +25896,7 @@
         "english":"banana tree"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang nature-trees",
         "thai": "ต้นแอปเปิล",
         "english":"apple tree"
@@ -25927,7 +25920,7 @@
         "english":"oak tree"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang nature-trees",
         "thai": "ต้นยางพารา",
         "english":"rubber tree"
@@ -26125,7 +26118,7 @@
         "english":"twenty one"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numbers-2-3-digit",
         "thai": "ยี่สิบสอง",
         "english":"twenty-two"
@@ -26137,7 +26130,7 @@
         "english":"thirty"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numbers-2-3-digit",
         "thai": "สามสิบห้า",
         "english":"thirty-five"
@@ -26185,7 +26178,7 @@
         "english":"one hundred"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numbers-2-3-digit",
         "thai": "สองร้อย",
         "english":"two hundred"
@@ -26197,7 +26190,7 @@
         "english":"hundred"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numbers-4-6-digit",
         "thai": "หนึ่งพัน",
         "english":"one thousand"
@@ -26209,7 +26202,7 @@
         "english":"two thousand"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numbers-4-6-digit",
         "thai": "ห้าพัน",
         "english":"five thousand"
@@ -26221,31 +26214,31 @@
         "english":"thousand"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numbers-4-6-digit",
         "thai": "หนึ่งหมื่น",
         "english":"ten thousand"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numbers-4-6-digit",
         "thai": "สองหมื่น",
         "english":"twenty thousand"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numbers-4-6-digit",
         "thai": "แปดหมื่น",
         "english":"eighty thousand"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numbers-4-6-digit",
         "thai": "หนึ่งแสน",
         "english":"one hundred thousand"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numbers-4-6-digit",
         "thai": "ห้าแสน",
         "english":"five hundred thousand"
@@ -26257,13 +26250,13 @@
         "english":"hundred thousand"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numbers-7-digit-plus",
         "thai": "หนึ่งล้าน",
         "english":"one million"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numbers-7-digit-plus",
         "thai": "สามล้าน",
         "english":"three million"
@@ -26281,163 +26274,163 @@
         "english":"ten million"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numbers-7-digit-plus",
         "thai": "ห้าสิบล้าน",
         "english":"fifty million"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numbers-7-digit-plus",
         "thai": "หนึ่งร้อยล้าน",
         "english":"one hundred million"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numbers-7-digit-plus",
         "thai": "สองร้อยล้าน",
         "english":"two hundred million"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numbers-7-digit-plus",
         "thai": "ร้อยล้าน",
         "english":"hundred million"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numbers-7-digit-plus",
         "thai": "หนึ่งพันล้าน",
         "english":"one billion"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numbers-7-digit-plus",
         "thai": "ห้าพันล้าน",
         "english":"five billion"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numbers-7-digit-plus",
         "thai": "พันล้าน",
         "english":"billion"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numbers-7-digit-plus",
         "thai": "หมื่นล้าน",
         "english":"ten billion"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numbers-7-digit-plus",
         "thai": "แสนล้าน",
         "english":"one hundred billion"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numerals",
         "thai": "๐",
         "english":"0"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numerals",
         "thai": "๑",
         "english":"1"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numerals",
         "thai": "๒",
         "english":"2"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numerals",
         "thai": "๓",
         "english":"3"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numerals",
         "thai": "๔",
         "english":"4"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numerals",
         "thai": "๕",
         "english":"5"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numerals",
         "thai": "๖",
         "english":"6"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numerals",
         "thai": "๗",
         "english":"7"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numerals",
         "thai": "๘",
         "english":"8"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numerals",
         "thai": "๙",
         "english":"9"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numerals",
         "thai": "๑๐",
         "english":"10"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numerals",
         "thai": "๒๕",
         "english":"25"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numerals",
         "thai": "๔๘",
         "english":"48"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numerals",
         "thai": "๕๓",
         "english":"53"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numerals",
         "thai": "๖๔",
         "english":"64"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numerals",
         "thai": "๙๙",
         "english":"99"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numerals",
         "thai": "๑๕๒",
         "english":"152"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang numerals",
         "thai": "๒๕๕๐",
         "english":"2550"
@@ -26509,7 +26502,7 @@
         "english":"to photocopy"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang paperwork",
         "thai": "ซีร็อกซ์",
         "english":"to photocopy (colloquial)"
@@ -26737,13 +26730,13 @@
         "english":"mother-in-law (wife's mother)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang people-family-in-laws",
         "thai": "พ่อสามี",
         "english":"father-in-law (husband's father)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang people-family-in-laws",
         "thai": "แม่สามี",
         "english":"mother-in-law (husband's mother)"
@@ -26755,7 +26748,7 @@
         "english":"son-in-law"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang people-family-in-laws",
         "thai": "ลูกสะไภ้",
         "english":"daughter-in-law"
@@ -26767,7 +26760,7 @@
         "english":"younger brother-in-law"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang people-family-in-laws",
         "thai": "น้องสะไภ้",
         "english":"younger sister-in-law"
@@ -26779,7 +26772,7 @@
         "english":"older brother-in-law"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang people-family-in-laws",
         "thai": "พี่สะไภ้",
         "english":"older sister-in-law"
@@ -26803,7 +26796,7 @@
         "english":"first name"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang people-names",
         "thai": "ชื่อกลาง",
         "english":"middle name"
@@ -27043,7 +27036,7 @@
         "english":"gay (noun)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang people-relations",
         "thai": "เป็นเกย์",
         "english":"gay (adjective)"
@@ -27085,13 +27078,13 @@
         "english":"airport"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang places-around-town",
         "thai": "อพาร์ทเมนท์",
         "english":"apartment"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang places-around-town",
         "thai": "บ.ค.ส.",
         "english":"bus terminal (informal)"
@@ -27115,7 +27108,7 @@
         "english":"fire department"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang places-around-town",
         "thai": "โรงบาล",
         "english":"hospital (informal)"
@@ -27331,7 +27324,7 @@
         "english":"United States of America"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang places-countries-west",
         "thai": "สหรัฐฯ",
         "english":"U.S."
@@ -27385,7 +27378,7 @@
         "english":"Russia"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang places-shopping",
         "thai": "เบเกอรี่",
         "english":"bakery"
@@ -27715,7 +27708,7 @@
         "english":"precept"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang religion-concepts-good",
         "thai": "ความคารวะ",
         "english":"reverence"
@@ -27745,13 +27738,13 @@
         "english":"God"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang religion-people",
         "thai": "พระเยซูคริสต์",
         "english":"Jesus Christ"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang religion-people",
         "thai": "พระอัลเลาะห์",
         "english":"Allah"
@@ -28027,7 +28020,7 @@
         "english":"Buddhism"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang religion",
         "thai": "ศาสนายิว",
         "english":"Judaism"
@@ -28099,13 +28092,13 @@
         "english":"blackboard"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang school-implements",
         "thai": "กระดานขาว",
         "english":"whiteboard"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang school-implements",
         "thai": "แปรงลบ",
         "english":"(felt) eraser"
@@ -28147,7 +28140,7 @@
         "english":"ruler"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang school-implements",
         "thai": "ชอล์ค",
         "english":"chalk"
@@ -28165,31 +28158,31 @@
         "english":"abacus"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang school-implements",
         "thai": "ที่เหลาดินสอ",
         "english":"pencil sharpener"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang school-implements",
         "thai": "น้ำยาลบคำ",
         "english":"correcting fluid"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang school-implements",
         "thai": "ลิควิด",
         "english":"correcting fluid (colloquial)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang school-implements",
         "thai": "หนังสือแบบฝึกหัด",
         "english":"exercise book"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang school-implements",
         "thai": "ดินสอเทียน",
         "english":"crayon"
@@ -28279,7 +28272,7 @@
         "english":"headmaster"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang school-people-places",
         "thai": "ผู้อำนวยการ (โรงเรียน)",
         "english":"(school) principal"
@@ -28375,7 +28368,7 @@
         "english":"money"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-bank",
         "thai": "ยอดเหลือ",
         "english":"balance"
@@ -28405,13 +28398,13 @@
         "english":"credit card"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-bank",
         "thai": "บัตรเดบิต",
         "english":"debit card"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-bank",
         "thai": "บัตรเอทีเอ็ม",
         "english":"ATM card"
@@ -28423,13 +28416,13 @@
         "english":"credit limit"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-bank",
         "thai": "หมายเลขบัญชี",
         "english":"account number"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-bank",
         "thai": "หมายเลขบัตร",
         "english":"card number"
@@ -28591,7 +28584,7 @@
         "english":"to get a shave"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-barber",
         "thai": "โกนหนวดกันหน้า",
         "english":"to get a shave (elaborate)"
@@ -28603,7 +28596,7 @@
         "english":"drill"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-dentist-tools",
         "thai": "หัวสว่าน",
         "english":"drill bit"
@@ -28621,19 +28614,19 @@
         "english":"syringe"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-dentist-tools",
         "thai": "การแต่งผิวฟัน",
         "english":"facing"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-dentist-tools",
         "thai": "แผ่นขัดถูฟัน",
         "english":"tooth polisher"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-dentist-tools",
         "thai": "เครื่องขัดฟัน",
         "english":"grinding wheel"
@@ -28645,67 +28638,67 @@
         "english":"burr"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-dentist-tools",
         "thai": "สิ่วแต่งรูปฟัน",
         "english":"finishing burr"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-dentist-tools",
         "thai": "สิ่วแต่งร่องฟัน",
         "english":"fissure burr"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-dentist-tools",
         "thai": "เครื่องแคะซอกฟัน",
         "english":"probe"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-dentist-tools",
         "thai": "คีมถอนฟัน",
         "english":"extraction forceps"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-dentist-tools",
         "thai": "สิ่วตอกกระดูก",
         "english":"bone chisel"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-dentist-tools",
         "thai": "ถาดพิมพ์ฟัน",
         "english":"impression tray"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-dentist-tools",
         "thai": "เก้าอี้ทำฟัน",
         "english":"dentist's chair"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-dentist-tools",
         "thai": "เก้าอี้ทันตกรรม",
         "english":"dentist's chair (formal)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-dentist-tools",
         "thai": "เครื่องดูดน้ำลาย",
         "english":"suction apparatus"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-dentist-tools",
         "thai": "โคมไฟทันตกรรม",
         "english":"dentist's lamp"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-dentist-tools",
         "thai": "เครื่องเอกซเรย์ฟัน",
         "english":"tooth X-ray machine"
@@ -28723,7 +28716,7 @@
         "english":"dentist (informal)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-dentist",
         "thai": "ผู้ช่วยทันพแพทย์",
         "english":"assistant"
@@ -28795,7 +28788,7 @@
         "english":"crown"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-dentist",
         "thai": "ครอบฟันทอง",
         "english":"gold crown"
@@ -28813,7 +28806,7 @@
         "english":"(dental) bridge"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-dentist",
         "thai": "ตอฟัน",
         "english":"stump (of the tooth)"
@@ -28831,7 +28824,7 @@
         "english":"to rinse (the mouth)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-dentist",
         "thai": "ขัดฟัน",
         "english":"to floss"
@@ -28855,7 +28848,7 @@
         "english":"health"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-doctor-health",
         "thai": "สุขภาพดี",
         "english":"healthy"
@@ -28885,7 +28878,7 @@
         "english":"blood pressure (informal)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-doctor-health",
         "thai": "หมู่โลหิต",
         "english":"blood group"
@@ -28915,7 +28908,7 @@
         "english":"health"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-doctor-illness",
         "thai": "เป็น(โรค)",
         "english":"to have (a disease)"
@@ -28981,7 +28974,7 @@
         "english":"cancer"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-doctor-illness",
         "thai": "หัวใจล้ม",
         "english":"heart attack"
@@ -29125,7 +29118,7 @@
         "english":"patient (formal)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-doctor",
         "thai": "ห้องรอ",
         "english":"waiting room"
@@ -29137,7 +29130,7 @@
         "english":"reception"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-doctor",
         "thai": "แฟ้มผู้ป่วย",
         "english":"patient's file"
@@ -29149,7 +29142,7 @@
         "english":"medical record"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-doctor",
         "thai": "ใบรัีบรองแพทย์",
         "english":"medical certificate"
@@ -29161,7 +29154,7 @@
         "english":"prescription"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-doctor",
         "thai": "บัญชียา",
         "english":"pharmacopoeia"
@@ -29173,7 +29166,7 @@
         "english":"operating room"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-doctor",
         "thai": "ห้องฉุกเฉิน",
         "english":"emergency room"
@@ -29221,7 +29214,7 @@
         "english":"brake"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-drive-general",
         "thai": "ไฟหน้ารถ",
         "english":"headlights"
@@ -29245,7 +29238,7 @@
         "english":"backseat"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-drive-general",
         "thai": "กระโปรงท้าย",
         "english":"trunk"
@@ -29275,13 +29268,13 @@
         "english":"neutral (gear)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-drive-general",
         "thai": "เกียร์ดี",
         "english":"drive (gear)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-drive-general",
         "thai": "เกียร์พี",
         "english":"park (gear)"
@@ -29407,7 +29400,7 @@
         "english":"to reverse"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-drive-verbs",
         "thai": "สต๊าร์ต (รถ)",
         "english":"to start (the car)"
@@ -29419,13 +29412,13 @@
         "english":"to pass (another car)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-drive-verbs",
         "thai": "ขับซิ่ง",
         "english":"to speed"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-drive-verbs",
         "thai": "เปลี่ยนเลน",
         "english":"to change lanes"
@@ -29497,7 +29490,7 @@
         "english":"to find"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-market-verbs",
         "thai": "หา(x)ไม่เจอ",
         "english":"to be unable to find (x)"
@@ -29575,7 +29568,7 @@
         "english":"wallet"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-market",
         "thai": "กระเป๋าตังค์",
         "english":"wallet (informal)"
@@ -29599,7 +29592,7 @@
         "english":"kilo (informal)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-market",
         "thai": "กิโลละ (25 บาท)",
         "english":"(25 baht) per kilo"
@@ -29719,7 +29712,7 @@
         "english":"showing"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-movies",
         "thai": "รอบฉาย",
         "english":"showtime"
@@ -29791,7 +29784,7 @@
         "english":"operating hours"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-office",
         "thai": "ที่หนีบกระดาษ",
         "english":"paperclip"
@@ -29809,19 +29802,19 @@
         "english":"stapler"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-office",
         "thai": "ที่แม็ค",
         "english":"stapler (informal)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-office",
         "thai": "แม็ค",
         "english":"staple"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-office",
         "thai": "สมุดจด",
         "english":"notebook"
@@ -29839,25 +29832,25 @@
         "english":"document"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-office",
         "thai": "แผ่นงาน",
         "english":"spreadsheet"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-office",
         "thai": "อีเมล์",
         "english":"e-mail"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-office",
         "thai": "ที่อยู่อีเมล์",
         "english":"e-mail address"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-office",
         "thai": "เบอร์อีเมล์",
         "english":"e-mail address (informal)"
@@ -29911,13 +29904,13 @@
         "english":"letterbox (public, for sending)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-post-office",
         "thai": "ตู้ไปรษณีย์เช่า",
         "english":"post office box"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-post-office",
         "thai": "ตู้ ปณ.",
         "english":"P.O. box"
@@ -29995,7 +29988,7 @@
         "english":"to write a letter"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-post-office",
         "thai": "จ่าหน้า (ซอง)",
         "english":"to address (an envelope)"
@@ -30025,7 +30018,7 @@
         "english":"turn left"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-taxi",
         "thai": "ตรงไป",
         "english":"go straight"
@@ -30037,7 +30030,7 @@
         "english":"go past"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang situation-taxi",
         "thai": "ไปเรื่อย ๆ",
         "english":"keep going"
@@ -30073,25 +30066,25 @@
         "english":"athlete"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-athletes",
         "thai": "นักปั่นจักรยาน",
         "english":"cyclist"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-athletes",
         "thai": "นักกายกรรม",
         "english":"gymnast"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-athletes",
         "thai": "นักหวด",
         "english":"tennis player"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-athletes",
         "thai": "นักบอล",
         "english":"football player"
@@ -30103,31 +30096,31 @@
         "english":"football player (informal)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-athletes",
         "thai": "นักบาส",
         "english":"basketball player"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-athletes",
         "thai": "นักโยนโบว์ล",
         "english":"bowler"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-athletes",
         "thai": "นักว่ายน้ำ",
         "english":"swimmer"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-athletes",
         "thai": "นักเล่นสกี",
         "english":"skier"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-athletes",
         "thai": "นักวิ่ง",
         "english":"runner"
@@ -30139,7 +30132,7 @@
         "english":"referee"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-athletes",
         "thai": "นักล่า",
         "english":"hunter"
@@ -30217,19 +30210,19 @@
         "english":"match"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-concepts",
         "thai": "กีฬาโอลิมปิก",
         "english":"Olympic Games"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-concepts",
         "thai": "โอลิมปิกส์",
         "english":"Olympics"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-concepts",
         "thai": "เพลย์ออฟ",
         "english":"playoff"
@@ -30283,25 +30276,25 @@
         "english":"swimming pool"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-concepts",
         "thai": "กีฬาน้ำ",
         "english":"water sports"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-concepts",
         "thai": "กีฬาหน้าหนาว",
         "english":"winter sports"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-concepts",
         "thai": "กีฬาหน้าร้อน",
         "english":"summer sports"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-equipment",
         "thai": "อุปกรณ์กีฬา",
         "english":"sports equipment"
@@ -30313,7 +30306,7 @@
         "english":"ball"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-equipment",
         "thai": "ไม้ตีเบสบอล",
         "english":"bat"
@@ -30325,7 +30318,7 @@
         "english":"bench"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-equipment",
         "thai": "ลิ้นสูบลม",
         "english":"valve"
@@ -30349,13 +30342,13 @@
         "english":"goal"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-equipment",
         "thai": "เสาประตู",
         "english":"goalpost"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-equipment",
         "thai": "คานประตู",
         "english":"crossbar"
@@ -30373,13 +30366,13 @@
         "english":"paddle"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-equipment",
         "thai": "สเก็ต",
         "english":"skate"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-equipment",
         "thai": "หมวกว่ายน้ำ",
         "english":"swimming cap"
@@ -30421,13 +30414,13 @@
         "english":"goal"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-football",
         "thai": "ผู้รักษาประตู",
         "english":"goalkeeper"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-football",
         "thai": "เตะมุม",
         "english":"corner kick"
@@ -30445,13 +30438,13 @@
         "english":"free kick"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-football",
         "thai": "เตะกลับข้ามหัว",
         "english":"bicycle kick"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-football",
         "thai": "โหม่งลูก",
         "english":"header"
@@ -30463,7 +30456,7 @@
         "english":"pass"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-football",
         "thai": "ทุ่มเข้า",
         "english":"throw-in"
@@ -30517,7 +30510,7 @@
         "english":"sport"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-types",
         "thai": "ฟุตบอลอเมริกัน",
         "english":"American football"
@@ -30529,13 +30522,13 @@
         "english":"badminton"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-types",
         "thai": "แบด",
         "english":"badminton (informal)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-types",
         "thai": "เบสบอล",
         "english":"baseball"
@@ -30547,13 +30540,13 @@
         "english":"basketball"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-types",
         "thai": "บาส",
         "english":"basketball (informal)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-types",
         "thai": "โบว์ลิ่ง",
         "english":"bowling"
@@ -30577,7 +30570,7 @@
         "english":"gymnastics"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-types",
         "thai": "การเล่นสกี",
         "english":"skiing"
@@ -30595,7 +30588,7 @@
         "english":"weightlifting"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-types",
         "thai": "แข่งจักรยาน",
         "english":"cycling"
@@ -30625,13 +30618,13 @@
         "english":"hunting"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-types",
         "thai": "สนุ๊กเกอร์",
         "english":"snooker"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-types",
         "thai": "สเก็ตน้ำแข็ง",
         "english":"ice skating"
@@ -30685,7 +30678,7 @@
         "english":"to compete"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-verbs",
         "thai": "เล่นสกี",
         "english":"to ski"
@@ -30697,7 +30690,7 @@
         "english":"to swim"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-verbs",
         "thai": "โยนโบว์ลิ่ง",
         "english":"to bowl"
@@ -30709,7 +30702,7 @@
         "english":"to fish"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang sports-verbs",
         "thai": "ล่า(สัตว์)",
         "english":"to hunt (animals)"
@@ -30721,7 +30714,7 @@
         "english":"province"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang thai-divisions",
         "thai": "อำเภอเมือง",
         "english":"provincial capital"
@@ -30829,7 +30822,7 @@
         "english":"Pattaya"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang thai-major-cities",
         "thai": "หาดใหญ่",
         "english":"Hat Yai"
@@ -31327,13 +31320,13 @@
         "english":"central region"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang thai-regions",
         "thai": "ภาคตะวันออก",
         "english":"eastern region"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang thai-regions",
         "thai": "ภาคตะวันตก",
         "english":"western region"
@@ -31381,73 +31374,73 @@
         "english":"time period"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang time-months-abbrev",
         "thai": "ม.ค.",
         "english":"January"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang time-months-abbrev",
         "thai": "ก.พ.",
         "english":"February"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang time-months-abbrev",
         "thai": "มี.ค.",
         "english":"March"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang time-months-abbrev",
         "thai": "เม.ย.",
         "english":"April"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang time-months-abbrev",
         "thai": "พ.ค.",
         "english":"May"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang time-months-abbrev",
         "thai": "มิ.ย.",
         "english":"June"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang time-months-abbrev",
         "thai": "ก.ค.",
         "english":"July"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang time-months-abbrev",
         "thai": "ส.ค.",
         "english":"August"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang time-months-abbrev",
         "thai": "ก.ย.",
         "english":"September"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang time-months-abbrev",
         "thai": "ต.ค.",
         "english":"October"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang time-months-abbrev",
         "thai": "พ.ย.",
         "english":"November"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang time-months-abbrev",
         "thai": "ธ.ค.",
         "english":"December"
@@ -31603,13 +31596,13 @@
         "english":"daytime"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang time-of-day",
         "thai": "พระอาทิตย์ขึ้น",
         "english":"sunrise"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang time-of-day",
         "thai": "พระอาทิตย์ตก",
         "english":"sunset"
@@ -31747,13 +31740,13 @@
         "english":"day before yesterday"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang time-relative-2",
         "thai": "(อาทิตย์ ฯลฯ) หน้า",
         "english":"next (week, etc.)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang time-relative-2",
         "thai": "(อาทิตย์ ฯลฯ) ที่แล้ว",
         "english":"last (week, etc.)"
@@ -31843,7 +31836,7 @@
         "english":"date"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang time-relative-3",
         "thai": "เสาร์อาทิตย์",
         "english":"weekend"
@@ -32017,7 +32010,7 @@
         "english":"decade"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang time-units",
         "thai": "สตวรรษ",
         "english":"century"
@@ -32077,7 +32070,7 @@
         "english":"Saturday"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang time-zodiac-chinese",
         "thai": "ปีนักษัตร",
         "english":"Chinese zodiac"
@@ -32197,7 +32190,7 @@
         "english":"Virgo"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang time-zodiac",
         "thai": "ราศีตุลย์",
         "english":"Libra"
@@ -32287,7 +32280,7 @@
         "english":"skytrain"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang transportation",
         "thai": "รถใต้ดิน",
         "english":"subway"
@@ -32413,7 +32406,7 @@
         "english":"to believe"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang verb-agree",
         "thai": "รังเกียจ",
         "english":"to disdain"
@@ -33127,7 +33120,7 @@
         "english":"to injure"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang verb-injure",
         "thai": "ทำให้เจ็บ",
         "english":"to hurt (transitive)"
@@ -33187,7 +33180,7 @@
         "english":"to cut"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang verb-injure",
         "thai": "โดนมีดบาด",
         "english":"to get cut (by a knife)"
@@ -33613,7 +33606,7 @@
         "english":"to cry out"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang verb-speak-cheer",
         "thai": "เปล่ง (เสียง)",
         "english":"to project (the voice)"
@@ -33673,7 +33666,7 @@
         "english":"to narrate"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang verb-speak-explain",
         "thai": "พูดซ้ำ",
         "english":"to repeat"
@@ -33853,7 +33846,7 @@
         "english":"to converse"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang verb-speak",
         "thai": "คุยเล่น",
         "english":"to chat"
@@ -33877,7 +33870,7 @@
         "english":"to communicate"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang verb-speak",
         "thai": "พยัีกหน้า",
         "english":"to nod"
@@ -34213,7 +34206,7 @@
         "english":"to retire (formal)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang verb-work",
         "thai": "อู้(งาน)",
         "english":"to put off (work)"
@@ -34453,7 +34446,7 @@
         "english":"centigrade"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang weather-temperature",
         "thai": "ฟาเรนไฮต์",
         "english":"fahrenheit"
@@ -34471,7 +34464,7 @@
         "english":"cold"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang weather-temperature",
         "thai": "อากาศหนาว",
         "english":"cold weather"
@@ -34483,7 +34476,7 @@
         "english":"cool"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang weather-temperature",
         "thai": "อากาศเย็น",
         "english":"cool weather"
@@ -34495,7 +34488,7 @@
         "english":"hot"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang weather-temperature",
         "thai": "อากาศร้อน",
         "english":"hot weather"
@@ -34507,7 +34500,7 @@
         "english":"warm"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang weather-temperature",
         "thai": "อากาศอบอุ่น",
         "english":"warm weather"
@@ -34609,7 +34602,7 @@
         "english":"rainbow"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang web",
         "thai": "อินเตอร์เน็ต",
         "english":"internet"
@@ -34693,31 +34686,31 @@
         "english":"visit"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang web",
         "thai": "ฟอรั่ม",
         "english":"forum"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang web",
         "thai": "แชท",
         "english":"chat"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang web",
         "thai": "ห้องสนทนา",
         "english":"chatroom"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang web",
         "thai": "แชทรูม",
         "english":"chatroom (colloquial)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang web",
         "thai": "กระดานสนทนา",
         "english":"discussion board"
@@ -34783,7 +34776,7 @@
         "english":"paragraph"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang writing",
         "thai": "เครื่องหมายวรรณยุกต์",
         "english":"tone marker"
@@ -35209,13 +35202,13 @@
         "english":"conflict, n."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL main",
         "thai": "อนุรักษ์นิยม",
         "english":"conservative, (politics)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL main",
         "thai": "มากพอสมควร",
         "english":"considerable"
@@ -35269,7 +35262,7 @@
         "english":"converse"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL main",
         "thai": "ทำให้(...)เชื่อ",
         "english":"convince"
@@ -35377,7 +35370,7 @@
         "english":"design, v."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL main",
         "thai": "การออกแบบ",
         "english":"design, n. (field of work)"
@@ -35389,7 +35382,7 @@
         "english":"design, n. (pattern)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL main",
         "thai": "ตรวจพบ",
         "english":"detect"
@@ -35503,7 +35496,7 @@
         "english":"environment"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL main",
         "thai": "ด้านสิ่งแวดล้อม",
         "english":"environmental"
@@ -35545,7 +35538,7 @@
         "english":"evolution"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL main",
         "thai": "มีวิวัฒนาการ",
         "english":"evolve"
@@ -35611,7 +35604,7 @@
         "english":"financial"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL main",
         "thai": "มีความยืดหยุ่น",
         "english":"flexible"
@@ -35635,7 +35628,7 @@
         "english":"foundation, n. (organization)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL main",
         "thai": "รากฐาน(ทางวัฒนธรรม ทางสังคม)  ฐานราก (ของสิ่งก่อสร้าง)",
         "english":"foundation, n. (physical)"
@@ -35713,7 +35706,7 @@
         "english":"hypothesis"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL main",
         "thai": "พิสูจน์เอกลักษณ์",
         "english":"identify"
@@ -35731,7 +35724,7 @@
         "english":"ideology"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL main",
         "thai": "เชิงอุดมคติ",
         "english":"ideological"
@@ -35779,7 +35772,7 @@
         "english":"income"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL main",
         "thai": "บ่งชี้ ",
         "english":"indicate"
@@ -35941,7 +35934,7 @@
         "english":"media, n. (pl. of medium)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL main",
         "thai": "ภาพยนตร์เป็นสื่ออย่างหนึ่งที่ไปถึงได้ทุกที่โดยไร้ขอบเขตจำกัด",
         "english":"medium, n. (sg. of media)"
@@ -36133,7 +36126,7 @@
         "english":"publish, (print a written work)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL main",
         "thai": "พิมพ์เผยแพร่",
         "english":"publish, (disseminate a written work)"
@@ -36337,7 +36330,7 @@
         "english":"style, n."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL main",
         "thai": "ใช้(...)แทน",
         "english":"substitute, v."
@@ -36361,7 +36354,7 @@
         "english":"supply, n. (economics)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL main",
         "thai": "อุปสงค์อุปทาน",
         "english":"supply and demand"
@@ -36559,7 +36552,7 @@
         "english":"administrator"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL secondary",
         "thai": "โตเต็มวัย",
         "english":"adult, (fully grown)"
@@ -36601,7 +36594,7 @@
         "english":"arm, v."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL secondary",
         "thai": "ที่ได้รับมอบหมาย",
         "english":"assigned"
@@ -36643,7 +36636,7 @@
         "english":"colleague, (coworker)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL secondary",
         "thai": "เพื่อนร่วมอาชีพ",
         "english":"colleague, (same profession)"
@@ -36691,7 +36684,7 @@
         "english":"consume, (inedible goods)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL secondary",
         "thai": "หรี่, หด",
         "english":"contract, (shrink)"
@@ -36775,13 +36768,13 @@
         "english":"formula"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL secondary",
         "thai": "ในอุดมคติ",
         "english":"ideal, adj."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL secondary",
         "thai": "อุดมการณ์	",
         "english":"ideal, n. (guiding principle)"
@@ -36793,13 +36786,13 @@
         "english":"ideal, n. (perfect standard)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL secondary",
         "thai": "คนมีอุดมการณ์",
         "english":"idealist"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL secondary",
         "thai": "แสดงให้เห็นถึง",
         "english":"illustrate, (make clear)"
@@ -36817,7 +36810,7 @@
         "english":"index"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL secondary",
         "thai": "หลีกเลี่ยงไม่ได้",
         "english":"inevitable"
@@ -36829,13 +36822,13 @@
         "english":"infer"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL secondary",
         "thai": "ไม่เกี่ยวกับประเด็น",
         "english":"irrelevant, (off-topic)"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL secondary",
         "thai": "ผันกลับไม่ได้",
         "english":"irreversible"
@@ -36847,7 +36840,7 @@
         "english":"legislator"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL secondary",
         "thai": "ย้ายถิ่นฐาน",
         "english":"migrate"
@@ -36907,7 +36900,7 @@
         "english":"research, v."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL secondary",
         "thai": "ผันกลับ",
         "english":"reverse"
@@ -36925,7 +36918,7 @@
         "english":"significant"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL secondary",
         "thai": "อย่างมีนัยสำคัญ",
         "english":"significantly"
@@ -36943,7 +36936,7 @@
         "english":"stability"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL secondary",
         "thai": "มีเสถียรภาพ",
         "english":"stable"
@@ -37009,13 +37002,13 @@
         "english":"trace, v."
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL secondary",
         "thai": "แนวโน้ม, (มี)แนวโน้ม",
         "english":"trend"
     },
     {
-        "rank":"100",
+        "rank":"1000",
         "source":"SEAlang Thai AWL secondary",
         "thai": "สามัคคี(กัน)",
         "english":"united"
